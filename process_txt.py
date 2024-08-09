@@ -3,7 +3,13 @@ import os
 
 
 
-BASE_DIR = "bistro"
+
+
+# download cvvdp results from HPC
+# process results by running this file
+# write to excel using 
+
+# BASE_DIR = "bistro"
 SCENE = "bistro"
 CLEANED_DIR = "cleaned"
 
@@ -32,7 +38,7 @@ if DELETE:
             with open(input_file_path, "r") as file:
                 lines = file.readlines()
 
-            filtered_lines = [line for line in lines if not line.strip().lower().startswith(('current', 'dec_file', '/home/yl962/rds'))]
+            filtered_lines = [line for line in lines if not line.strip().lower().startswith(('current', 'dec_file', 'ref_file', '/home/yl962/rds'))]
             # filtered_lines = [line for line in lines if line.strip()]
 
             with open(output_file_path, "w") as file:
