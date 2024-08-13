@@ -37,10 +37,11 @@ if __name__ == "__main__":
     SCENES = ['bedroom', 'bistro', 'crytek_sponza', 'gallery', 'living_room', \
               'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue']
     # SCENES = ['bedroom', 'living_room', 'lost_empire', 'room', 'suntemple', 'suntemple_statue']
-    SCENES = ['bistro', 'crytek_sponza', 'gallery', 'sibenik']
+    # SCENES = ['bistro', 'crytek_sponza', 'gallery', 'sibenik']
+    SCENES = ['gallery'] # TODO
     CLEANED_DIR = "cleaned"
     PROCESS_TXT = True # False True
-    jobid_list = [i for i in range(1, 24)]
+    jobid_list = [i for i in range(33, 34)] # TODO
 
     for SCENE in SCENES:
         input_scene_path = f"cvvdp_results/{SCENE}"
