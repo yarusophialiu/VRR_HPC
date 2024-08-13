@@ -1,0 +1,32 @@
+Number of nodes allocated: 1
+Total number of tasks: 1
+MPI tasks per node: 1
+The current scene is: sibenik
+Changed directory to /rds/user/yl962/hpc-work/VRR.
+
+JobID: 58670075
+======
+Argument: 
+Time: Sat Aug 10 23:11:27 BST 2024
+Running on master node: gpu-q-35
+Current directory: /rds/user/yl962/hpc-work/VRR
+
+numtasks=1, numnodes=1, mpi_tasks_per_node=1
+
+Executing command:
+==================
+
+
+SLURM_ARRAY_TASK_ID (renamed to id): 47
+Traceback (most recent call last):
+  File "/rds/user/yl962/hpc-work/VRR/compare_dec_ref_HPC.py", line 71, in <module>
+    path, seg, speed = mapIdToPath(id)
+                       ^^^^^^^^^^^^^^^
+  File "/rds/user/yl962/hpc-work/VRR/compare_dec_ref_HPC.py", line 44, in mapIdToPath
+    return paths[pathIdx], segs[segIdx], speeds[speedIdx]
+           ~~~~~^^^^^^^^^
+IndexError: list index out of range
+
+Run metric finished
+
+Sat Aug 10 23:11:27 BST 2024
