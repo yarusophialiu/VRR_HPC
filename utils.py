@@ -19,9 +19,13 @@ def count_files_in_subfolders(root_directory):
 
 def mapIdToPath(id):
     """
-    we run 15 jobs/tasks (allocate 13 gpus) at one time, each scene has 45 clips, so we run 3 times
-    for each task id, we run videos for 1 scene, 1 seg, 1 speed, i.e. for loop 50 * 13 = 650 videos
-    e.g. sbatch --array=0-14:1 -A STARS-SL3-GPU submission_script
+    NOTE: input id starts from 0 not 1, HPC job id starts from 1
+    so should be mapIdToPath(JOBID-1)
+
+    we run 45 jobs/tasks (allocate 13 gpus) at one time as each scene has 45 clips
+    so we run 10 times as there are in total 10 scenes
+    for each task id, we run videos for 1 scene, 1 seg, 1 speed, i.e. for loop 5 * 10 = 50 videos
+    e.g. sbatch --array=1-10:1 -A STARS-SL3-GPU submission_script
 
     id is from 0-44, map id -> path, seg, speed
 
@@ -39,3 +43,14 @@ def mapIdToPath(id):
     speeds = [1, 2, 3,]
 #    print(f'pathIdx {pathIdx}, segIdx {segIdx} speedIdx {speedIdx}')
     return paths[pathIdx], segs[segIdx], speeds[speedIdx]
+
+
+def mapPathToId(path, seg, speed):
+    """
+    NOTE: output id starts from 0 not 1, HPC job id starts from 1
+
+    mapPathToId(1, 1, 1) -> 0, id is 0, need to add 1 to become jobid
+    """
+    id = (path-1) * 9 + (seg-1) * 3 + speed - 1
+    print(f'id {id}')
+    return id
