@@ -101,7 +101,8 @@ def get_rows():
     all_columns = base_columns * 10
     row1 = ["bitrate"] + all_columns
 
-    fps_values = ["fps30", "fps40", "fps50", "fps60", "fps90", "fps120"]
+    # fps_values = ["fps30", "fps40", "fps50", "fps60", "fps90", "fps120"]
+    fps_values = ["fps30", "fps40", "fps50", "fps60", "fps90", "fps100", "fps110", "fps120"]
     row2 = []
 
     fill_color = PatternFill(start_color="ffc0cb", end_color="ffc0cb", fill_type="solid")
@@ -168,7 +169,7 @@ if __name__ == "__main__":
     SCENES = ['bedroom', 'bistro', 'crytek_sponza', 'gallery', 'living_room', \
             'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue']
     
-    SCENES = ['lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue']
+    SCENES = ['sibenik', 'suntemple', 'suntemple_statue']
     
     # SCENE = "living_room"
     CLEANED_DIR = "cleaned"
@@ -182,7 +183,7 @@ if __name__ == "__main__":
         cleaned_scene_path = f'{CLEANED_DIR}/{SCENE}'
         excel_path = f'{excel_dir}/data-{today}/{SCENE}.xlsx'
         os.makedirs(f'{excel_dir}/data-{today}', exist_ok=True)
-        jobid_list = [i for i in range(1, 46)] # TODO: change node
+        jobid_list = [i for i in range(1, 11)] # TODO: change node
         # jobid_list = [i for i in range(18, 46)] # TODO: change node
 
         # TODO: loop load_data_to_excel
