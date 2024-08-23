@@ -1,0 +1,1256 @@
+scene bistro
+pathIdx 1, segIdx 1 speedIdx 0
+ref_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/ref166_1080/refOutput.mp4
+
+
+========================= bitrate 500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps100/100_1080_500/*
+cvvdp=6.0112 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps100/100_360_500/*
+cvvdp=6.0247 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps100/100_480_500/*
+cvvdp=6.3036 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps100/100_720_500/*
+cvvdp=6.4578 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps100/100_864_500/*
+cvvdp=6.2895 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps110/110_1080_500/*
+cvvdp=5.9505 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps110/110_360_500/*
+cvvdp=6.0028 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps110/110_480_500/*
+cvvdp=6.2293 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps110/110_720_500/*
+cvvdp=6.4020 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps110/110_864_500/*
+cvvdp=6.2806 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps120/120_1080_500/*
+cvvdp=5.7476 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps120/120_360_500/*
+cvvdp=5.9782 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps120/120_480_500/*
+cvvdp=6.2406 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps120/120_720_500/*
+cvvdp=6.3066 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps120/120_864_500/*
+cvvdp=6.1868 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps30/30_1080_500/*
+cvvdp=5.6720 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps30/30_360_500/*
+cvvdp=5.5285 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps30/30_480_500/*
+cvvdp=5.7654 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps30/30_720_500/*
+cvvdp=5.9193 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps30/30_864_500/*
+cvvdp=5.8481 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps40/40_1080_500/*
+cvvdp=6.0754 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps40/40_360_500/*
+cvvdp=5.8217 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps40/40_480_500/*
+cvvdp=6.1476 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps40/40_720_500/*
+cvvdp=6.3634 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps40/40_864_500/*
+cvvdp=6.2328 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps50/50_1080_500/*
+cvvdp=6.2195 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps50/50_360_500/*
+cvvdp=5.9712 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps50/50_480_500/*
+cvvdp=6.3090 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps50/50_720_500/*
+cvvdp=6.5492 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps50/50_864_500/*
+cvvdp=6.3729 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps60/60_1080_500/*
+cvvdp=6.3076 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps60/60_360_500/*
+cvvdp=6.0298 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps60/60_480_500/*
+cvvdp=6.3792 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps60/60_720_500/*
+cvvdp=6.6005 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps60/60_864_500/*
+cvvdp=6.4292 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps70/70_1080_500/*
+cvvdp=6.3620 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps70/70_360_500/*
+cvvdp=6.0592 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps70/70_480_500/*
+cvvdp=6.3912 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps70/70_720_500/*
+cvvdp=6.5937 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps70/70_864_500/*
+cvvdp=6.4185 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps80/80_1080_500/*
+cvvdp=6.3395 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps80/80_360_500/*
+cvvdp=6.0856 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps80/80_480_500/*
+cvvdp=6.3904 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps80/80_720_500/*
+cvvdp=6.5699 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps80/80_864_500/*
+cvvdp=6.3983 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps90/90_1080_500/*
+cvvdp=6.2184 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps90/90_360_500/*
+cvvdp=6.0298 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps90/90_480_500/*
+cvvdp=6.3450 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps90/90_720_500/*
+cvvdp=6.5030 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/500kbps/fps90/90_864_500/*
+cvvdp=6.3516 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps100/100_1080_1000/*
+cvvdp=7.2792 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps100/100_360_1000/*
+cvvdp=6.4757 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps100/100_480_1000/*
+cvvdp=6.9812 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps100/100_720_1000/*
+cvvdp=7.4167 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps100/100_864_1000/*
+cvvdp=7.2650 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps110/110_1080_1000/*
+cvvdp=7.2394 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps110/110_360_1000/*
+cvvdp=6.4977 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps110/110_480_1000/*
+cvvdp=7.0004 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps110/110_720_1000/*
+cvvdp=7.4130 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps110/110_864_1000/*
+cvvdp=7.2663 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps120/120_1080_1000/*
+cvvdp=7.2090 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps120/120_360_1000/*
+cvvdp=6.4943 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps120/120_480_1000/*
+cvvdp=6.9575 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps120/120_720_1000/*
+cvvdp=7.3636 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps120/120_864_1000/*
+cvvdp=7.2429 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps30/30_1080_1000/*
+cvvdp=6.0578 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps30/30_360_1000/*
+cvvdp=5.6875 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps30/30_480_1000/*
+cvvdp=5.9690 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps30/30_720_1000/*
+cvvdp=6.2003 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps30/30_864_1000/*
+cvvdp=6.1636 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps40/40_1080_1000/*
+cvvdp=6.6758 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps40/40_360_1000/*
+cvvdp=6.0536 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps40/40_480_1000/*
+cvvdp=6.4607 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps40/40_720_1000/*
+cvvdp=6.8069 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps40/40_864_1000/*
+cvvdp=6.7859 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps50/50_1080_1000/*
+cvvdp=7.0099 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps50/50_360_1000/*
+cvvdp=6.2516 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps50/50_480_1000/*
+cvvdp=6.7195 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps50/50_720_1000/*
+cvvdp=7.1200 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps50/50_864_1000/*
+cvvdp=7.1022 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps60/60_1080_1000/*
+cvvdp=7.2140 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps60/60_360_1000/*
+cvvdp=6.3499 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps60/60_480_1000/*
+cvvdp=6.8594 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps60/60_720_1000/*
+cvvdp=7.3085 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps60/60_864_1000/*
+cvvdp=7.2549 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps70/70_1080_1000/*
+cvvdp=7.2513 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps70/70_360_1000/*
+cvvdp=6.4200 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps70/70_480_1000/*
+cvvdp=6.9446 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps70/70_720_1000/*
+cvvdp=7.4176 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps70/70_864_1000/*
+cvvdp=7.2857 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps80/80_1080_1000/*
+cvvdp=7.4197 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps80/80_360_1000/*
+cvvdp=6.4694 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps80/80_480_1000/*
+cvvdp=7.0078 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps80/80_720_1000/*
+cvvdp=7.5051 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps80/80_864_1000/*
+cvvdp=7.3799 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps90/90_1080_1000/*
+cvvdp=7.3472 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps90/90_360_1000/*
+cvvdp=6.4776 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps90/90_480_1000/*
+cvvdp=6.9921 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps90/90_720_1000/*
+cvvdp=7.4626 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1000kbps/fps90/90_864_1000/*
+cvvdp=7.2949 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps100/100_1080_1500/*
+cvvdp=7.7623 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps100/100_360_1500/*
+cvvdp=6.6300 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps100/100_480_1500/*
+cvvdp=7.2202 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps100/100_720_1500/*
+cvvdp=7.8461 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps100/100_864_1500/*
+cvvdp=7.7215 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps110/110_1080_1500/*
+cvvdp=7.7803 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps110/110_360_1500/*
+cvvdp=6.6567 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps110/110_480_1500/*
+cvvdp=7.2525 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps110/110_720_1500/*
+cvvdp=7.8551 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps110/110_864_1500/*
+cvvdp=7.7593 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps120/120_1080_1500/*
+cvvdp=7.7697 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps120/120_360_1500/*
+cvvdp=6.6663 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps120/120_480_1500/*
+cvvdp=7.2356 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps120/120_720_1500/*
+cvvdp=7.8253 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps120/120_864_1500/*
+cvvdp=7.7230 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps30/30_1080_1500/*
+cvvdp=6.1422 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps30/30_360_1500/*
+cvvdp=5.7348 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps30/30_480_1500/*
+cvvdp=6.0331 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps30/30_720_1500/*
+cvvdp=6.2572 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps30/30_864_1500/*
+cvvdp=6.2357 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps40/40_1080_1500/*
+cvvdp=6.8608 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps40/40_360_1500/*
+cvvdp=6.1283 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps40/40_480_1500/*
+cvvdp=6.5620 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps40/40_720_1500/*
+cvvdp=6.9394 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps40/40_864_1500/*
+cvvdp=6.9385 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps50/50_1080_1500/*
+cvvdp=7.2733 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps50/50_360_1500/*
+cvvdp=6.3438 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps50/50_480_1500/*
+cvvdp=6.8496 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps50/50_720_1500/*
+cvvdp=7.3078 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps50/50_864_1500/*
+cvvdp=7.3334 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps60/60_1080_1500/*
+cvvdp=7.5317 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps60/60_360_1500/*
+cvvdp=6.4553 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps60/60_480_1500/*
+cvvdp=7.0148 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps60/60_720_1500/*
+cvvdp=7.5424 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps60/60_864_1500/*
+cvvdp=7.5505 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps70/70_1080_1500/*
+cvvdp=7.7109 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps70/70_360_1500/*
+cvvdp=6.5438 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps70/70_480_1500/*
+cvvdp=7.1315 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps70/70_720_1500/*
+cvvdp=7.7135 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps70/70_864_1500/*
+cvvdp=7.6890 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps80/80_1080_1500/*
+cvvdp=7.8688 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps80/80_360_1500/*
+cvvdp=6.6021 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps80/80_480_1500/*
+cvvdp=7.2159 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps80/80_720_1500/*
+cvvdp=7.8672 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps80/80_864_1500/*
+cvvdp=7.8070 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps90/90_1080_1500/*
+cvvdp=7.8284 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps90/90_360_1500/*
+cvvdp=6.6119 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps90/90_480_1500/*
+cvvdp=7.2210 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps90/90_720_1500/*
+cvvdp=7.8507 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/1500kbps/fps90/90_864_1500/*
+cvvdp=7.7552 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 2000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps100/100_1080_2000/*
+cvvdp=8.0285 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps100/100_360_2000/*
+cvvdp=6.7076 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps100/100_480_2000/*
+cvvdp=7.3472 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps100/100_720_2000/*
+cvvdp=8.0455 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps100/100_864_2000/*
+cvvdp=8.0056 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps110/110_1080_2000/*
+cvvdp=8.0920 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps110/110_360_2000/*
+cvvdp=6.7372 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps110/110_480_2000/*
+cvvdp=7.3787 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps110/110_720_2000/*
+cvvdp=8.0893 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps110/110_864_2000/*
+cvvdp=8.0385 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps120/120_1080_2000/*
+cvvdp=8.0643 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps120/120_360_2000/*
+cvvdp=6.7501 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps120/120_480_2000/*
+cvvdp=7.3793 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps120/120_720_2000/*
+cvvdp=8.0761 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps120/120_864_2000/*
+cvvdp=8.0074 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps30/30_1080_2000/*
+cvvdp=6.1637 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps30/30_360_2000/*
+cvvdp=5.7589 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps30/30_480_2000/*
+cvvdp=6.0598 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps30/30_720_2000/*
+cvvdp=6.2802 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps30/30_864_2000/*
+cvvdp=6.2571 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps40/40_1080_2000/*
+cvvdp=6.9270 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps40/40_360_2000/*
+cvvdp=6.1637 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps40/40_480_2000/*
+cvvdp=6.6099 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps40/40_720_2000/*
+cvvdp=6.9917 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps40/40_864_2000/*
+cvvdp=7.0038 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps50/50_1080_2000/*
+cvvdp=7.3745 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps50/50_360_2000/*
+cvvdp=6.3891 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps50/50_480_2000/*
+cvvdp=6.9154 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps50/50_720_2000/*
+cvvdp=7.3885 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps50/50_864_2000/*
+cvvdp=7.4265 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps60/60_1080_2000/*
+cvvdp=7.6729 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps60/60_360_2000/*
+cvvdp=6.5080 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps60/60_480_2000/*
+cvvdp=7.0926 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps60/60_720_2000/*
+cvvdp=7.6512 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps60/60_864_2000/*
+cvvdp=7.6924 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps70/70_1080_2000/*
+cvvdp=7.8975 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps70/70_360_2000/*
+cvvdp=6.5997 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps70/70_480_2000/*
+cvvdp=7.2220 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps70/70_720_2000/*
+cvvdp=7.8558 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps70/70_864_2000/*
+cvvdp=7.8798 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps80/80_1080_2000/*
+cvvdp=8.1158 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps80/80_360_2000/*
+cvvdp=6.6609 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps80/80_480_2000/*
+cvvdp=7.3192 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps80/80_720_2000/*
+cvvdp=8.0410 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps80/80_864_2000/*
+cvvdp=8.0523 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps90/90_1080_2000/*
+cvvdp=8.0911 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps90/90_360_2000/*
+cvvdp=6.6813 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps90/90_480_2000/*
+cvvdp=7.3325 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps90/90_720_2000/*
+cvvdp=8.0465 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/bistro/bistro_path2_seg2_1/2000kbps/fps90/90_864_2000/*
+cvvdp=8.0169 [JOD]
+
+Command executed successfully.

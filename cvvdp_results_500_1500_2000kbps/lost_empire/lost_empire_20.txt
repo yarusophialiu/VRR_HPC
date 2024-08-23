@@ -1,0 +1,1256 @@
+scene lost_empire
+pathIdx 2, segIdx 0 speedIdx 1
+ref_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/ref166_1080/refOutput.mp4
+
+
+========================= bitrate 500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps100/100_1080_500/*
+cvvdp=5.8899 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps100/100_360_500/*
+cvvdp=5.9207 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps100/100_480_500/*
+cvvdp=6.1747 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps100/100_720_500/*
+cvvdp=6.2492 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps100/100_864_500/*
+cvvdp=6.0821 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps110/110_1080_500/*
+cvvdp=5.8093 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps110/110_360_500/*
+cvvdp=5.9099 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps110/110_480_500/*
+cvvdp=6.1607 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps110/110_720_500/*
+cvvdp=6.2350 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps110/110_864_500/*
+cvvdp=6.0552 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps120/120_1080_500/*
+cvvdp=5.6318 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps120/120_360_500/*
+cvvdp=5.9110 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps120/120_480_500/*
+cvvdp=6.1441 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps120/120_720_500/*
+cvvdp=6.2261 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps120/120_864_500/*
+cvvdp=6.0328 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps30/30_1080_500/*
+cvvdp=4.8677 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps30/30_360_500/*
+cvvdp=4.7919 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps30/30_480_500/*
+cvvdp=4.9782 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps30/30_720_500/*
+cvvdp=5.0348 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps30/30_864_500/*
+cvvdp=4.9444 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps40/40_1080_500/*
+cvvdp=5.3744 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps40/40_360_500/*
+cvvdp=5.2530 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps40/40_480_500/*
+cvvdp=5.4730 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps40/40_720_500/*
+cvvdp=5.5589 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps40/40_864_500/*
+cvvdp=5.4722 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps50/50_1080_500/*
+cvvdp=5.7130 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps50/50_360_500/*
+cvvdp=5.5469 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps50/50_480_500/*
+cvvdp=5.7738 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps50/50_720_500/*
+cvvdp=5.8411 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps50/50_864_500/*
+cvvdp=5.7378 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps60/60_1080_500/*
+cvvdp=5.8394 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps60/60_360_500/*
+cvvdp=5.7082 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps60/60_480_500/*
+cvvdp=5.9565 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps60/60_720_500/*
+cvvdp=6.0330 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps60/60_864_500/*
+cvvdp=5.9381 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps70/70_1080_500/*
+cvvdp=5.9395 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps70/70_360_500/*
+cvvdp=5.8227 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps70/70_480_500/*
+cvvdp=6.0927 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps70/70_720_500/*
+cvvdp=6.1636 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps70/70_864_500/*
+cvvdp=6.0403 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps80/80_1080_500/*
+cvvdp=6.0059 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps80/80_360_500/*
+cvvdp=5.8966 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps80/80_480_500/*
+cvvdp=6.1457 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps80/80_720_500/*
+cvvdp=6.2564 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps80/80_864_500/*
+cvvdp=6.0792 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps90/90_1080_500/*
+cvvdp=5.9728 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps90/90_360_500/*
+cvvdp=5.9187 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps90/90_480_500/*
+cvvdp=6.1642 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps90/90_720_500/*
+cvvdp=6.2868 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/500kbps/fps90/90_864_500/*
+cvvdp=6.0679 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps100/100_1080_1000/*
+cvvdp=6.9640 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps100/100_360_1000/*
+cvvdp=6.3735 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps100/100_480_1000/*
+cvvdp=6.8352 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps100/100_720_1000/*
+cvvdp=7.1820 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps100/100_864_1000/*
+cvvdp=6.9512 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps110/110_1080_1000/*
+cvvdp=6.9730 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps110/110_360_1000/*
+cvvdp=6.3943 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps110/110_480_1000/*
+cvvdp=6.8505 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps110/110_720_1000/*
+cvvdp=7.1921 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps110/110_864_1000/*
+cvvdp=6.9661 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps120/120_1080_1000/*
+cvvdp=6.9694 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps120/120_360_1000/*
+cvvdp=6.4059 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps120/120_480_1000/*
+cvvdp=6.8652 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps120/120_720_1000/*
+cvvdp=7.2330 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps120/120_864_1000/*
+cvvdp=6.9754 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps30/30_1080_1000/*
+cvvdp=5.2129 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps30/30_360_1000/*
+cvvdp=4.9338 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps30/30_480_1000/*
+cvvdp=5.1508 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps30/30_720_1000/*
+cvvdp=5.2665 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps30/30_864_1000/*
+cvvdp=5.2395 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps40/40_1080_1000/*
+cvvdp=5.8871 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps40/40_360_1000/*
+cvvdp=5.4694 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps40/40_480_1000/*
+cvvdp=5.7590 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps40/40_720_1000/*
+cvvdp=5.9442 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps40/40_864_1000/*
+cvvdp=5.9301 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps50/50_1080_1000/*
+cvvdp=6.3579 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps50/50_360_1000/*
+cvvdp=5.8263 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps50/50_480_1000/*
+cvvdp=6.1624 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps50/50_720_1000/*
+cvvdp=6.3813 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps50/50_864_1000/*
+cvvdp=6.3633 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps60/60_1080_1000/*
+cvvdp=6.6139 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps60/60_360_1000/*
+cvvdp=6.0543 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps60/60_480_1000/*
+cvvdp=6.4243 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps60/60_720_1000/*
+cvvdp=6.6881 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps60/60_864_1000/*
+cvvdp=6.6543 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps70/70_1080_1000/*
+cvvdp=6.8092 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps70/70_360_1000/*
+cvvdp=6.2074 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps70/70_480_1000/*
+cvvdp=6.6243 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps70/70_720_1000/*
+cvvdp=6.9223 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps70/70_864_1000/*
+cvvdp=6.8219 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps80/80_1080_1000/*
+cvvdp=6.9273 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps80/80_360_1000/*
+cvvdp=6.3106 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps80/80_480_1000/*
+cvvdp=6.7445 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps80/80_720_1000/*
+cvvdp=7.0826 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps80/80_864_1000/*
+cvvdp=6.9326 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps90/90_1080_1000/*
+cvvdp=6.9714 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps90/90_360_1000/*
+cvvdp=6.3443 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps90/90_480_1000/*
+cvvdp=6.8025 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps90/90_720_1000/*
+cvvdp=7.1663 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1000kbps/fps90/90_864_1000/*
+cvvdp=6.9386 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps100/100_1080_1500/*
+cvvdp=7.3654 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps100/100_360_1500/*
+cvvdp=6.5365 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps100/100_480_1500/*
+cvvdp=7.0693 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps100/100_720_1500/*
+cvvdp=7.5449 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps100/100_864_1500/*
+cvvdp=7.3678 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps110/110_1080_1500/*
+cvvdp=7.3584 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps110/110_360_1500/*
+cvvdp=6.5595 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps110/110_480_1500/*
+cvvdp=7.0879 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps110/110_720_1500/*
+cvvdp=7.5742 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps110/110_864_1500/*
+cvvdp=7.3832 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps120/120_1080_1500/*
+cvvdp=7.4400 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps120/120_360_1500/*
+cvvdp=6.5820 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps120/120_480_1500/*
+cvvdp=7.1197 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps120/120_720_1500/*
+cvvdp=7.6239 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps120/120_864_1500/*
+cvvdp=7.3869 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps30/30_1080_1500/*
+cvvdp=5.2904 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps30/30_360_1500/*
+cvvdp=4.9726 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps30/30_480_1500/*
+cvvdp=5.1993 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps30/30_720_1500/*
+cvvdp=5.3159 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps30/30_864_1500/*
+cvvdp=5.3184 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps40/40_1080_1500/*
+cvvdp=6.0357 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps40/40_360_1500/*
+cvvdp=5.5347 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps40/40_480_1500/*
+cvvdp=5.8428 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps40/40_720_1500/*
+cvvdp=6.0405 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps40/40_864_1500/*
+cvvdp=6.0532 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps50/50_1080_1500/*
+cvvdp=6.5527 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps50/50_360_1500/*
+cvvdp=5.9129 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps50/50_480_1500/*
+cvvdp=6.2809 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps50/50_720_1500/*
+cvvdp=6.5349 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps50/50_864_1500/*
+cvvdp=6.5548 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps60/60_1080_1500/*
+cvvdp=6.9074 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps60/60_360_1500/*
+cvvdp=6.1569 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps60/60_480_1500/*
+cvvdp=6.5791 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps60/60_720_1500/*
+cvvdp=6.8897 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps60/60_864_1500/*
+cvvdp=6.9042 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps70/70_1080_1500/*
+cvvdp=7.1496 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps70/70_360_1500/*
+cvvdp=6.3237 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps70/70_480_1500/*
+cvvdp=6.7956 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps70/70_720_1500/*
+cvvdp=7.1725 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps70/70_864_1500/*
+cvvdp=7.1446 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps80/80_1080_1500/*
+cvvdp=7.3195 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps80/80_360_1500/*
+cvvdp=6.4468 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps80/80_480_1500/*
+cvvdp=6.9419 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps80/80_720_1500/*
+cvvdp=7.3775 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps80/80_864_1500/*
+cvvdp=7.2750 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps90/90_1080_1500/*
+cvvdp=7.3564 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps90/90_360_1500/*
+cvvdp=6.4980 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps90/90_480_1500/*
+cvvdp=7.0208 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps90/90_720_1500/*
+cvvdp=7.4885 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/1500kbps/fps90/90_864_1500/*
+cvvdp=7.3338 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 2000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps100/100_1080_2000/*
+cvvdp=7.5925 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps100/100_360_2000/*
+cvvdp=6.6155 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps100/100_480_2000/*
+cvvdp=7.1793 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps100/100_720_2000/*
+cvvdp=7.7058 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps100/100_864_2000/*
+cvvdp=7.5949 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps110/110_1080_2000/*
+cvvdp=7.6236 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps110/110_360_2000/*
+cvvdp=6.6420 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps110/110_480_2000/*
+cvvdp=7.2055 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps110/110_720_2000/*
+cvvdp=7.7460 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps110/110_864_2000/*
+cvvdp=7.6051 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps120/120_1080_2000/*
+cvvdp=7.7005 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps120/120_360_2000/*
+cvvdp=6.6745 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps120/120_480_2000/*
+cvvdp=7.2436 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps120/120_720_2000/*
+cvvdp=7.8058 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps120/120_864_2000/*
+cvvdp=7.6477 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps30/30_1080_2000/*
+cvvdp=5.3169 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps30/30_360_2000/*
+cvvdp=4.9914 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps30/30_480_2000/*
+cvvdp=5.2180 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps30/30_720_2000/*
+cvvdp=5.3376 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps30/30_864_2000/*
+cvvdp=5.3421 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps40/40_1080_2000/*
+cvvdp=6.0802 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps40/40_360_2000/*
+cvvdp=5.5644 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps40/40_480_2000/*
+cvvdp=5.8777 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps40/40_720_2000/*
+cvvdp=6.0757 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps40/40_864_2000/*
+cvvdp=6.0955 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps50/50_1080_2000/*
+cvvdp=6.6294 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps50/50_360_2000/*
+cvvdp=5.9525 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps50/50_480_2000/*
+cvvdp=6.3300 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps50/50_720_2000/*
+cvvdp=6.5971 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps50/50_864_2000/*
+cvvdp=6.6264 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps60/60_1080_2000/*
+cvvdp=7.0184 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps60/60_360_2000/*
+cvvdp=6.2065 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps60/60_480_2000/*
+cvvdp=6.6464 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps60/60_720_2000/*
+cvvdp=6.9807 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps60/60_864_2000/*
+cvvdp=7.0086 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps70/70_1080_2000/*
+cvvdp=7.2998 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps70/70_360_2000/*
+cvvdp=6.3833 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps70/70_480_2000/*
+cvvdp=6.8769 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps70/70_720_2000/*
+cvvdp=7.2818 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps70/70_864_2000/*
+cvvdp=7.2803 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps80/80_1080_2000/*
+cvvdp=7.5029 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps80/80_360_2000/*
+cvvdp=6.5115 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps80/80_480_2000/*
+cvvdp=7.0355 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps80/80_720_2000/*
+cvvdp=7.5028 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps80/80_864_2000/*
+cvvdp=7.4766 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps90/90_1080_2000/*
+cvvdp=7.5801 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps90/90_360_2000/*
+cvvdp=6.5682 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps90/90_480_2000/*
+cvvdp=7.1230 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps90/90_720_2000/*
+cvvdp=7.6321 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/lost_empire/lost_empire_path3_seg1_2/2000kbps/fps90/90_864_2000/*
+cvvdp=7.5483 [JOD]
+
+Command executed successfully.

@@ -1,0 +1,1256 @@
+scene sibenik
+pathIdx 3, segIdx 2 speedIdx 2
+ref_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/ref166_1080/refOutput.mp4
+
+
+========================= bitrate 500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps100/100_1080_500/*
+cvvdp=5.4046 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps100/100_360_500/*
+cvvdp=5.7835 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps100/100_480_500/*
+cvvdp=5.7762 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps100/100_720_500/*
+cvvdp=5.6584 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps100/100_864_500/*
+cvvdp=5.5899 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps110/110_1080_500/*
+cvvdp=5.4780 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps110/110_360_500/*
+cvvdp=5.8613 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps110/110_480_500/*
+cvvdp=5.8665 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps110/110_720_500/*
+cvvdp=5.7357 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps110/110_864_500/*
+cvvdp=5.6737 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps120/120_1080_500/*
+cvvdp=5.5330 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps120/120_360_500/*
+cvvdp=5.9552 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps120/120_480_500/*
+cvvdp=5.9792 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps120/120_720_500/*
+cvvdp=5.8473 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps120/120_864_500/*
+cvvdp=5.7920 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps30/30_1080_500/*
+cvvdp=2.5403 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps30/30_360_500/*
+cvvdp=2.7733 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps30/30_480_500/*
+cvvdp=2.7627 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps30/30_720_500/*
+cvvdp=2.7008 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps30/30_864_500/*
+cvvdp=2.6437 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps40/40_1080_500/*
+cvvdp=3.5350 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps40/40_360_500/*
+cvvdp=3.8296 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps40/40_480_500/*
+cvvdp=3.8020 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps40/40_720_500/*
+cvvdp=3.7323 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps40/40_864_500/*
+cvvdp=3.6476 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps50/50_1080_500/*
+cvvdp=4.1483 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps50/50_360_500/*
+cvvdp=4.5149 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps50/50_480_500/*
+cvvdp=4.4843 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps50/50_720_500/*
+cvvdp=4.3849 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps50/50_864_500/*
+cvvdp=4.3211 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps60/60_1080_500/*
+cvvdp=4.6668 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps60/60_360_500/*
+cvvdp=4.9777 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps60/60_480_500/*
+cvvdp=4.9447 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps60/60_720_500/*
+cvvdp=4.8503 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps60/60_864_500/*
+cvvdp=4.7634 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps70/70_1080_500/*
+cvvdp=4.9414 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps70/70_360_500/*
+cvvdp=5.3325 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps70/70_480_500/*
+cvvdp=5.3074 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps70/70_720_500/*
+cvvdp=5.1742 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps70/70_864_500/*
+cvvdp=5.0992 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps80/80_1080_500/*
+cvvdp=5.1484 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps80/80_360_500/*
+cvvdp=5.5296 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps80/80_480_500/*
+cvvdp=5.5314 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps80/80_720_500/*
+cvvdp=5.3914 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps80/80_864_500/*
+cvvdp=5.3031 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps90/90_1080_500/*
+cvvdp=5.3088 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps90/90_360_500/*
+cvvdp=5.6547 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps90/90_480_500/*
+cvvdp=5.6702 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps90/90_720_500/*
+cvvdp=5.5410 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/500kbps/fps90/90_864_500/*
+cvvdp=5.4571 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps100/100_1080_1000/*
+cvvdp=5.7050 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps100/100_360_1000/*
+cvvdp=5.9015 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps100/100_480_1000/*
+cvvdp=5.9368 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps100/100_720_1000/*
+cvvdp=5.8803 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps100/100_864_1000/*
+cvvdp=5.7745 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps110/110_1080_1000/*
+cvvdp=5.8163 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps110/110_360_1000/*
+cvvdp=5.9990 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps110/110_480_1000/*
+cvvdp=6.0496 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps110/110_720_1000/*
+cvvdp=5.9936 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps110/110_864_1000/*
+cvvdp=5.8850 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps120/120_1080_1000/*
+cvvdp=5.9341 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps120/120_360_1000/*
+cvvdp=6.1214 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps120/120_480_1000/*
+cvvdp=6.1800 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps120/120_720_1000/*
+cvvdp=6.1139 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps120/120_864_1000/*
+cvvdp=6.0120 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps30/30_1080_1000/*
+cvvdp=2.6381 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps30/30_360_1000/*
+cvvdp=2.7898 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps30/30_480_1000/*
+cvvdp=2.7872 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps30/30_720_1000/*
+cvvdp=2.7329 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps30/30_864_1000/*
+cvvdp=2.6829 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps40/40_1080_1000/*
+cvvdp=3.6952 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps40/40_360_1000/*
+cvvdp=3.8691 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps40/40_480_1000/*
+cvvdp=3.8504 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps40/40_720_1000/*
+cvvdp=3.7996 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps40/40_864_1000/*
+cvvdp=3.7517 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps50/50_1080_1000/*
+cvvdp=4.3758 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps50/50_360_1000/*
+cvvdp=4.5531 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps50/50_480_1000/*
+cvvdp=4.5508 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps50/50_720_1000/*
+cvvdp=4.4800 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps50/50_864_1000/*
+cvvdp=4.4377 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps60/60_1080_1000/*
+cvvdp=4.8517 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps60/60_360_1000/*
+cvvdp=5.0369 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps60/60_480_1000/*
+cvvdp=5.0377 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps60/60_720_1000/*
+cvvdp=4.9699 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps60/60_864_1000/*
+cvvdp=4.9041 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps70/70_1080_1000/*
+cvvdp=5.2030 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps70/70_360_1000/*
+cvvdp=5.4045 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps70/70_480_1000/*
+cvvdp=5.4138 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps70/70_720_1000/*
+cvvdp=5.3442 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps70/70_864_1000/*
+cvvdp=5.2686 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps80/80_1080_1000/*
+cvvdp=5.4312 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps80/80_360_1000/*
+cvvdp=5.6309 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps80/80_480_1000/*
+cvvdp=5.6455 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps80/80_720_1000/*
+cvvdp=5.5805 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps80/80_864_1000/*
+cvvdp=5.4995 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps90/90_1080_1000/*
+cvvdp=5.5755 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps90/90_360_1000/*
+cvvdp=5.7683 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps90/90_480_1000/*
+cvvdp=5.8007 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps90/90_720_1000/*
+cvvdp=5.7421 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1000kbps/fps90/90_864_1000/*
+cvvdp=5.6382 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps100/100_1080_1500/*
+cvvdp=5.8099 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps100/100_360_1500/*
+cvvdp=5.9392 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps100/100_480_1500/*
+cvvdp=5.9879 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps100/100_720_1500/*
+cvvdp=5.9545 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps100/100_864_1500/*
+cvvdp=5.8653 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps110/110_1080_1500/*
+cvvdp=5.9272 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps110/110_360_1500/*
+cvvdp=6.0450 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps110/110_480_1500/*
+cvvdp=6.1028 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps110/110_720_1500/*
+cvvdp=6.0831 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps110/110_864_1500/*
+cvvdp=5.9890 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps120/120_1080_1500/*
+cvvdp=6.0596 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps120/120_360_1500/*
+cvvdp=6.1763 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps120/120_480_1500/*
+cvvdp=6.2411 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps120/120_720_1500/*
+cvvdp=6.2184 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps120/120_864_1500/*
+cvvdp=6.1223 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps30/30_1080_1500/*
+cvvdp=2.6677 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps30/30_360_1500/*
+cvvdp=2.7901 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps30/30_480_1500/*
+cvvdp=2.7896 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps30/30_720_1500/*
+cvvdp=2.7470 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps30/30_864_1500/*
+cvvdp=2.7087 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps40/40_1080_1500/*
+cvvdp=3.7326 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps40/40_360_1500/*
+cvvdp=3.8743 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps40/40_480_1500/*
+cvvdp=3.8669 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps40/40_720_1500/*
+cvvdp=3.8196 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps40/40_864_1500/*
+cvvdp=3.7815 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps50/50_1080_1500/*
+cvvdp=4.4268 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps50/50_360_1500/*
+cvvdp=4.5661 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps50/50_480_1500/*
+cvvdp=4.5668 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps50/50_720_1500/*
+cvvdp=4.5172 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps50/50_864_1500/*
+cvvdp=4.4672 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps60/60_1080_1500/*
+cvvdp=4.9059 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps60/60_360_1500/*
+cvvdp=5.0550 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps60/60_480_1500/*
+cvvdp=5.0609 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps60/60_720_1500/*
+cvvdp=5.0062 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps60/60_864_1500/*
+cvvdp=4.9562 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps70/70_1080_1500/*
+cvvdp=5.2735 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps70/70_360_1500/*
+cvvdp=5.4288 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps70/70_480_1500/*
+cvvdp=5.4455 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps70/70_720_1500/*
+cvvdp=5.3924 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps70/70_864_1500/*
+cvvdp=5.3282 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps80/80_1080_1500/*
+cvvdp=5.5181 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps80/80_360_1500/*
+cvvdp=5.6589 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps80/80_480_1500/*
+cvvdp=5.6840 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps80/80_720_1500/*
+cvvdp=5.6411 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps80/80_864_1500/*
+cvvdp=5.5669 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps90/90_1080_1500/*
+cvvdp=5.6608 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps90/90_360_1500/*
+cvvdp=5.8067 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps90/90_480_1500/*
+cvvdp=5.8448 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps90/90_720_1500/*
+cvvdp=5.8027 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/1500kbps/fps90/90_864_1500/*
+cvvdp=5.7189 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 2000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps100/100_1080_2000/*
+cvvdp=5.8635 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps100/100_360_2000/*
+cvvdp=5.9590 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps100/100_480_2000/*
+cvvdp=6.0071 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps100/100_720_2000/*
+cvvdp=5.9911 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps100/100_864_2000/*
+cvvdp=5.9092 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps110/110_1080_2000/*
+cvvdp=5.9864 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps110/110_360_2000/*
+cvvdp=6.0692 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps110/110_480_2000/*
+cvvdp=6.1318 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps110/110_720_2000/*
+cvvdp=6.1192 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps110/110_864_2000/*
+cvvdp=6.0347 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps120/120_1080_2000/*
+cvvdp=6.1251 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps120/120_360_2000/*
+cvvdp=6.2054 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps120/120_480_2000/*
+cvvdp=6.2750 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps120/120_720_2000/*
+cvvdp=6.2663 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps120/120_864_2000/*
+cvvdp=6.1822 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps30/30_1080_2000/*
+cvvdp=2.6769 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps30/30_360_2000/*
+cvvdp=2.7902 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps30/30_480_2000/*
+cvvdp=2.7852 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps30/30_720_2000/*
+cvvdp=2.7436 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps30/30_864_2000/*
+cvvdp=2.7180 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps40/40_1080_2000/*
+cvvdp=3.7556 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps40/40_360_2000/*
+cvvdp=3.8740 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps40/40_480_2000/*
+cvvdp=3.8699 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps40/40_720_2000/*
+cvvdp=3.8292 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps40/40_864_2000/*
+cvvdp=3.7967 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps50/50_1080_2000/*
+cvvdp=4.4500 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps50/50_360_2000/*
+cvvdp=4.5710 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps50/50_480_2000/*
+cvvdp=4.5697 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps50/50_720_2000/*
+cvvdp=4.5260 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps50/50_864_2000/*
+cvvdp=4.4939 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps60/60_1080_2000/*
+cvvdp=4.9361 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps60/60_360_2000/*
+cvvdp=5.0587 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps60/60_480_2000/*
+cvvdp=5.0665 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps60/60_720_2000/*
+cvvdp=5.0259 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps60/60_864_2000/*
+cvvdp=4.9761 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps70/70_1080_2000/*
+cvvdp=5.3137 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps70/70_360_2000/*
+cvvdp=5.4375 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps70/70_480_2000/*
+cvvdp=5.4548 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps70/70_720_2000/*
+cvvdp=5.4122 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps70/70_864_2000/*
+cvvdp=5.3596 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps80/80_1080_2000/*
+cvvdp=5.5620 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps80/80_360_2000/*
+cvvdp=5.6722 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps80/80_480_2000/*
+cvvdp=5.7007 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps80/80_720_2000/*
+cvvdp=5.6686 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps80/80_864_2000/*
+cvvdp=5.6060 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps90/90_1080_2000/*
+cvvdp=5.7159 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps90/90_360_2000/*
+cvvdp=5.8207 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps90/90_480_2000/*
+cvvdp=5.8613 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps90/90_720_2000/*
+cvvdp=5.8322 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/sibenik/sibenik_path4_seg3_3/2000kbps/fps90/90_864_2000/*
+cvvdp=5.7565 [JOD]
+
+Command executed successfully.

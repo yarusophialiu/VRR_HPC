@@ -1,0 +1,1256 @@
+scene gallery
+pathIdx 3, segIdx 0 speedIdx 1
+ref_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/ref166_1080/refOutput.mp4
+
+
+========================= bitrate 500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps100/100_1080_500/*
+cvvdp=6.4011 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps100/100_360_500/*
+cvvdp=6.3205 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps100/100_480_500/*
+cvvdp=6.7338 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps100/100_720_500/*
+cvvdp=6.8153 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps100/100_864_500/*
+cvvdp=6.5445 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps110/110_1080_500/*
+cvvdp=6.4070 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps110/110_360_500/*
+cvvdp=6.3264 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps110/110_480_500/*
+cvvdp=6.7210 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps110/110_720_500/*
+cvvdp=6.7547 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps110/110_864_500/*
+cvvdp=6.5484 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps120/120_1080_500/*
+cvvdp=6.5016 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps120/120_360_500/*
+cvvdp=6.3264 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps120/120_480_500/*
+cvvdp=6.6853 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps120/120_720_500/*
+cvvdp=6.6804 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps120/120_864_500/*
+cvvdp=6.5163 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps30/30_1080_500/*
+cvvdp=5.3949 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps30/30_360_500/*
+cvvdp=5.3226 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps30/30_480_500/*
+cvvdp=5.4835 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps30/30_720_500/*
+cvvdp=5.5709 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps30/30_864_500/*
+cvvdp=5.4910 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps40/40_1080_500/*
+cvvdp=6.0178 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps40/40_360_500/*
+cvvdp=5.8476 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps40/40_480_500/*
+cvvdp=6.1027 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps40/40_720_500/*
+cvvdp=6.2221 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps40/40_864_500/*
+cvvdp=6.1567 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps50/50_1080_500/*
+cvvdp=6.3572 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps50/50_360_500/*
+cvvdp=6.1250 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps50/50_480_500/*
+cvvdp=6.4747 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps50/50_720_500/*
+cvvdp=6.6336 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps50/50_864_500/*
+cvvdp=6.5408 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps60/60_1080_500/*
+cvvdp=6.5524 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps60/60_360_500/*
+cvvdp=6.2575 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps60/60_480_500/*
+cvvdp=6.6467 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps60/60_720_500/*
+cvvdp=6.8550 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps60/60_864_500/*
+cvvdp=6.6382 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps70/70_1080_500/*
+cvvdp=6.5983 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps70/70_360_500/*
+cvvdp=6.3214 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps70/70_480_500/*
+cvvdp=6.7298 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps70/70_720_500/*
+cvvdp=6.9297 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps70/70_864_500/*
+cvvdp=6.6606 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps80/80_1080_500/*
+cvvdp=6.6509 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps80/80_360_500/*
+cvvdp=6.3476 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps80/80_480_500/*
+cvvdp=6.7870 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps80/80_720_500/*
+cvvdp=6.9699 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps80/80_864_500/*
+cvvdp=6.6551 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps90/90_1080_500/*
+cvvdp=6.5402 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps90/90_360_500/*
+cvvdp=6.3469 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps90/90_480_500/*
+cvvdp=6.7552 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps90/90_720_500/*
+cvvdp=6.8901 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/500kbps/fps90/90_864_500/*
+cvvdp=6.5790 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps100/100_1080_1000/*
+cvvdp=7.3909 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps100/100_360_1000/*
+cvvdp=6.6909 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps100/100_480_1000/*
+cvvdp=7.2688 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps100/100_720_1000/*
+cvvdp=7.6634 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps100/100_864_1000/*
+cvvdp=7.4122 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps110/110_1080_1000/*
+cvvdp=7.3835 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps110/110_360_1000/*
+cvvdp=6.7245 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps110/110_480_1000/*
+cvvdp=7.2795 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps110/110_720_1000/*
+cvvdp=7.6633 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps110/110_864_1000/*
+cvvdp=7.4173 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps120/120_1080_1000/*
+cvvdp=7.3442 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps120/120_360_1000/*
+cvvdp=6.7307 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps120/120_480_1000/*
+cvvdp=7.2569 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps120/120_720_1000/*
+cvvdp=7.5927 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps120/120_864_1000/*
+cvvdp=7.3638 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps30/30_1080_1000/*
+cvvdp=5.5301 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps30/30_360_1000/*
+cvvdp=5.4159 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps30/30_480_1000/*
+cvvdp=5.5932 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps30/30_720_1000/*
+cvvdp=5.6557 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps30/30_864_1000/*
+cvvdp=5.6086 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps40/40_1080_1000/*
+cvvdp=6.2738 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps40/40_360_1000/*
+cvvdp=5.9946 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps40/40_480_1000/*
+cvvdp=6.2865 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps40/40_720_1000/*
+cvvdp=6.4275 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps40/40_864_1000/*
+cvvdp=6.3799 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps50/50_1080_1000/*
+cvvdp=6.8232 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps50/50_360_1000/*
+cvvdp=6.3361 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps50/50_480_1000/*
+cvvdp=6.7565 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps50/50_720_1000/*
+cvvdp=6.9971 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps50/50_864_1000/*
+cvvdp=6.9504 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps60/60_1080_1000/*
+cvvdp=7.2165 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps60/60_360_1000/*
+cvvdp=6.5211 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps60/60_480_1000/*
+cvvdp=7.0214 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps60/60_720_1000/*
+cvvdp=7.3522 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps60/60_864_1000/*
+cvvdp=7.2597 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps70/70_1080_1000/*
+cvvdp=7.4110 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps70/70_360_1000/*
+cvvdp=6.5977 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps70/70_480_1000/*
+cvvdp=7.1573 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps70/70_720_1000/*
+cvvdp=7.5323 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps70/70_864_1000/*
+cvvdp=7.4310 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps80/80_1080_1000/*
+cvvdp=7.5357 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps80/80_360_1000/*
+cvvdp=6.6719 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps80/80_480_1000/*
+cvvdp=7.2681 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps80/80_720_1000/*
+cvvdp=7.7091 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps80/80_864_1000/*
+cvvdp=7.5469 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps90/90_1080_1000/*
+cvvdp=7.5042 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps90/90_360_1000/*
+cvvdp=6.6932 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps90/90_480_1000/*
+cvvdp=7.2770 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps90/90_720_1000/*
+cvvdp=7.7043 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1000kbps/fps90/90_864_1000/*
+cvvdp=7.5073 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps100/100_1080_1500/*
+cvvdp=7.8445 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps100/100_360_1500/*
+cvvdp=6.8309 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps100/100_480_1500/*
+cvvdp=7.4679 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps100/100_720_1500/*
+cvvdp=7.9889 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps100/100_864_1500/*
+cvvdp=7.8463 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps110/110_1080_1500/*
+cvvdp=7.8575 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps110/110_360_1500/*
+cvvdp=6.8705 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps110/110_480_1500/*
+cvvdp=7.4910 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps110/110_720_1500/*
+cvvdp=8.0184 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps110/110_864_1500/*
+cvvdp=7.8726 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps120/120_1080_1500/*
+cvvdp=7.8278 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps120/120_360_1500/*
+cvvdp=6.8825 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps120/120_480_1500/*
+cvvdp=7.4840 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps120/120_720_1500/*
+cvvdp=7.9706 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps120/120_864_1500/*
+cvvdp=7.8212 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps30/30_1080_1500/*
+cvvdp=5.5285 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps30/30_360_1500/*
+cvvdp=5.4440 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps30/30_480_1500/*
+cvvdp=5.6174 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps30/30_720_1500/*
+cvvdp=5.6727 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps30/30_864_1500/*
+cvvdp=5.6182 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps40/40_1080_1500/*
+cvvdp=6.3187 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps40/40_360_1500/*
+cvvdp=6.0429 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps40/40_480_1500/*
+cvvdp=6.3365 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps40/40_720_1500/*
+cvvdp=6.4722 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps40/40_864_1500/*
+cvvdp=6.4269 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps50/50_1080_1500/*
+cvvdp=6.9375 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps50/50_360_1500/*
+cvvdp=6.4075 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps50/50_480_1500/*
+cvvdp=6.8445 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps50/50_720_1500/*
+cvvdp=7.0882 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps50/50_864_1500/*
+cvvdp=7.0490 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps60/60_1080_1500/*
+cvvdp=7.3860 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps60/60_360_1500/*
+cvvdp=6.6078 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps60/60_480_1500/*
+cvvdp=7.1420 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps60/60_720_1500/*
+cvvdp=7.4975 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps60/60_864_1500/*
+cvvdp=7.4622 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps70/70_1080_1500/*
+cvvdp=7.6506 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps70/70_360_1500/*
+cvvdp=6.7014 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps70/70_480_1500/*
+cvvdp=7.3056 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps70/70_720_1500/*
+cvvdp=7.7477 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps70/70_864_1500/*
+cvvdp=7.6946 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps80/80_1080_1500/*
+cvvdp=7.8909 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps80/80_360_1500/*
+cvvdp=6.7921 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps80/80_480_1500/*
+cvvdp=7.4406 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps80/80_720_1500/*
+cvvdp=7.9580 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps80/80_864_1500/*
+cvvdp=7.8988 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps90/90_1080_1500/*
+cvvdp=7.9187 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps90/90_360_1500/*
+cvvdp=6.8128 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps90/90_480_1500/*
+cvvdp=7.4650 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps90/90_720_1500/*
+cvvdp=7.9983 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/1500kbps/fps90/90_864_1500/*
+cvvdp=7.8873 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 2000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps100/100_1080_2000/*
+cvvdp=8.0988 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps100/100_360_2000/*
+cvvdp=6.9031 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps100/100_480_2000/*
+cvvdp=7.5750 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps100/100_720_2000/*
+cvvdp=8.1647 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps100/100_864_2000/*
+cvvdp=8.0782 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps110/110_1080_2000/*
+cvvdp=8.1553 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps110/110_360_2000/*
+cvvdp=6.9488 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps110/110_480_2000/*
+cvvdp=7.6149 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps110/110_720_2000/*
+cvvdp=8.2096 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps110/110_864_2000/*
+cvvdp=8.1143 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps120/120_1080_2000/*
+cvvdp=8.1256 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps120/120_360_2000/*
+cvvdp=6.9662 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps120/120_480_2000/*
+cvvdp=7.6075 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps120/120_720_2000/*
+cvvdp=8.1934 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps120/120_864_2000/*
+cvvdp=8.1041 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps30/30_1080_2000/*
+cvvdp=5.5252 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps30/30_360_2000/*
+cvvdp=5.4571 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps30/30_480_2000/*
+cvvdp=5.6270 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps30/30_720_2000/*
+cvvdp=5.6711 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps30/30_864_2000/*
+cvvdp=5.6226 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps40/40_1080_2000/*
+cvvdp=6.3305 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps40/40_360_2000/*
+cvvdp=6.0675 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps40/40_480_2000/*
+cvvdp=6.3635 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps40/40_720_2000/*
+cvvdp=6.4864 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps40/40_864_2000/*
+cvvdp=6.4436 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps50/50_1080_2000/*
+cvvdp=6.9763 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps50/50_360_2000/*
+cvvdp=6.4406 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps50/50_480_2000/*
+cvvdp=6.8937 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps50/50_720_2000/*
+cvvdp=7.1294 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps50/50_864_2000/*
+cvvdp=7.0934 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps60/60_1080_2000/*
+cvvdp=7.4559 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps60/60_360_2000/*
+cvvdp=6.6513 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps60/60_480_2000/*
+cvvdp=7.2047 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps60/60_720_2000/*
+cvvdp=7.5735 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps60/60_864_2000/*
+cvvdp=7.5467 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps70/70_1080_2000/*
+cvvdp=7.7722 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps70/70_360_2000/*
+cvvdp=6.7548 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps70/70_480_2000/*
+cvvdp=7.3818 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps70/70_720_2000/*
+cvvdp=7.8532 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps70/70_864_2000/*
+cvvdp=7.8182 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps80/80_1080_2000/*
+cvvdp=8.0499 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps80/80_360_2000/*
+cvvdp=6.8493 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps80/80_480_2000/*
+cvvdp=7.5293 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps80/80_720_2000/*
+cvvdp=8.0888 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps80/80_864_2000/*
+cvvdp=8.0627 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps90/90_1080_2000/*
+cvvdp=8.1176 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps90/90_360_2000/*
+cvvdp=6.8809 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps90/90_480_2000/*
+cvvdp=7.5623 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps90/90_720_2000/*
+cvvdp=8.1547 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/gallery/gallery_path4_seg1_2/2000kbps/fps90/90_864_2000/*
+cvvdp=8.1061 [JOD]
+
+Command executed successfully.

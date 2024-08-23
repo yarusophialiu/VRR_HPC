@@ -1,0 +1,1256 @@
+scene crytek_sponza
+pathIdx 2, segIdx 2 speedIdx 0
+ref_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/ref166_1080/refOutput.mp4
+
+
+========================= bitrate 500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps100/100_1080_500/*
+cvvdp=7.0015 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps100/100_360_500/*
+cvvdp=7.0924 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps100/100_480_500/*
+cvvdp=7.4622 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps100/100_720_500/*
+cvvdp=7.7949 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps100/100_864_500/*
+cvvdp=7.0691 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps110/110_1080_500/*
+cvvdp=7.0611 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps110/110_360_500/*
+cvvdp=7.0619 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps110/110_480_500/*
+cvvdp=7.4790 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps110/110_720_500/*
+cvvdp=7.7474 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps110/110_864_500/*
+cvvdp=7.0045 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps120/120_1080_500/*
+cvvdp=6.9338 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps120/120_360_500/*
+cvvdp=7.0748 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps120/120_480_500/*
+cvvdp=7.4307 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps120/120_720_500/*
+cvvdp=7.6890 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps120/120_864_500/*
+cvvdp=6.9693 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps30/30_1080_500/*
+cvvdp=7.8655 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps30/30_360_500/*
+cvvdp=7.1373 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps30/30_480_500/*
+cvvdp=7.6298 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps30/30_720_500/*
+cvvdp=8.1009 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps30/30_864_500/*
+cvvdp=7.8047 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps40/40_1080_500/*
+cvvdp=7.7828 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps40/40_360_500/*
+cvvdp=7.1938 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps40/40_480_500/*
+cvvdp=7.6694 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps40/40_720_500/*
+cvvdp=8.1786 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps40/40_864_500/*
+cvvdp=7.7442 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps50/50_1080_500/*
+cvvdp=7.6148 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps50/50_360_500/*
+cvvdp=7.2098 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps50/50_480_500/*
+cvvdp=7.6652 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps50/50_720_500/*
+cvvdp=8.1746 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps50/50_864_500/*
+cvvdp=7.6532 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps60/60_1080_500/*
+cvvdp=7.3673 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps60/60_360_500/*
+cvvdp=7.2037 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps60/60_480_500/*
+cvvdp=7.6477 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps60/60_720_500/*
+cvvdp=8.1402 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps60/60_864_500/*
+cvvdp=7.4131 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps70/70_1080_500/*
+cvvdp=7.2663 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps70/70_360_500/*
+cvvdp=7.1949 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps70/70_480_500/*
+cvvdp=7.6236 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps70/70_720_500/*
+cvvdp=8.0073 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps70/70_864_500/*
+cvvdp=7.4116 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps80/80_1080_500/*
+cvvdp=7.1303 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps80/80_360_500/*
+cvvdp=7.1643 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps80/80_480_500/*
+cvvdp=7.5795 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps80/80_720_500/*
+cvvdp=7.9902 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps80/80_864_500/*
+cvvdp=7.2053 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps90/90_1080_500/*
+cvvdp=7.0491 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps90/90_360_500/*
+cvvdp=7.1347 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps90/90_480_500/*
+cvvdp=7.5306 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps90/90_720_500/*
+cvvdp=7.8101 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/500kbps/fps90/90_864_500/*
+cvvdp=7.1052 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps100/100_1080_1000/*
+cvvdp=7.8431 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps100/100_360_1000/*
+cvvdp=7.3824 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps100/100_480_1000/*
+cvvdp=7.9262 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps100/100_720_1000/*
+cvvdp=8.4278 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps100/100_864_1000/*
+cvvdp=7.9401 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps110/110_1080_1000/*
+cvvdp=7.8685 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps110/110_360_1000/*
+cvvdp=7.3670 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps110/110_480_1000/*
+cvvdp=7.9161 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps110/110_720_1000/*
+cvvdp=8.4065 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps110/110_864_1000/*
+cvvdp=7.8528 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps120/120_1080_1000/*
+cvvdp=7.7402 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps120/120_360_1000/*
+cvvdp=7.3597 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps120/120_480_1000/*
+cvvdp=7.8922 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps120/120_720_1000/*
+cvvdp=8.3703 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps120/120_864_1000/*
+cvvdp=7.7906 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps30/30_1080_1000/*
+cvvdp=8.3789 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps30/30_360_1000/*
+cvvdp=7.2364 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps30/30_480_1000/*
+cvvdp=7.7557 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps30/30_720_1000/*
+cvvdp=8.3193 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps30/30_864_1000/*
+cvvdp=8.2733 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps40/40_1080_1000/*
+cvvdp=8.4534 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps40/40_360_1000/*
+cvvdp=7.3275 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps40/40_480_1000/*
+cvvdp=7.8747 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps40/40_720_1000/*
+cvvdp=8.5014 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps40/40_864_1000/*
+cvvdp=8.3524 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps50/50_1080_1000/*
+cvvdp=8.4111 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps50/50_360_1000/*
+cvvdp=7.3803 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps50/50_480_1000/*
+cvvdp=7.9324 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps50/50_720_1000/*
+cvvdp=8.5764 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps50/50_864_1000/*
+cvvdp=8.3348 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps60/60_1080_1000/*
+cvvdp=8.2704 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps60/60_360_1000/*
+cvvdp=7.4055 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps60/60_480_1000/*
+cvvdp=7.9540 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps60/60_720_1000/*
+cvvdp=8.5898 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps60/60_864_1000/*
+cvvdp=8.2491 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps70/70_1080_1000/*
+cvvdp=8.1992 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps70/70_360_1000/*
+cvvdp=7.4119 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps70/70_480_1000/*
+cvvdp=7.9620 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps70/70_720_1000/*
+cvvdp=8.5741 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps70/70_864_1000/*
+cvvdp=8.1834 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps80/80_1080_1000/*
+cvvdp=8.0497 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps80/80_360_1000/*
+cvvdp=7.4134 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps80/80_480_1000/*
+cvvdp=7.9676 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps80/80_720_1000/*
+cvvdp=8.5033 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps80/80_864_1000/*
+cvvdp=8.0909 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps90/90_1080_1000/*
+cvvdp=7.9802 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps90/90_360_1000/*
+cvvdp=7.4010 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps90/90_480_1000/*
+cvvdp=7.9453 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps90/90_720_1000/*
+cvvdp=8.4704 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1000kbps/fps90/90_864_1000/*
+cvvdp=8.0084 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps100/100_1080_1500/*
+cvvdp=8.3424 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps100/100_360_1500/*
+cvvdp=7.4783 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps100/100_480_1500/*
+cvvdp=8.0816 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps100/100_720_1500/*
+cvvdp=8.7158 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps100/100_864_1500/*
+cvvdp=8.3261 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps110/110_1080_1500/*
+cvvdp=8.2544 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps110/110_360_1500/*
+cvvdp=7.4688 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps110/110_480_1500/*
+cvvdp=8.0712 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps110/110_720_1500/*
+cvvdp=8.6784 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps110/110_864_1500/*
+cvvdp=8.2875 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps120/120_1080_1500/*
+cvvdp=8.2239 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps120/120_360_1500/*
+cvvdp=7.4589 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps120/120_480_1500/*
+cvvdp=8.0694 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps120/120_720_1500/*
+cvvdp=8.6560 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps120/120_864_1500/*
+cvvdp=8.2503 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps30/30_1080_1500/*
+cvvdp=8.5357 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps30/30_360_1500/*
+cvvdp=7.2608 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps30/30_480_1500/*
+cvvdp=7.7924 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps30/30_720_1500/*
+cvvdp=8.3772 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps30/30_864_1500/*
+cvvdp=8.4253 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps40/40_1080_1500/*
+cvvdp=8.7059 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps40/40_360_1500/*
+cvvdp=7.3667 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps40/40_480_1500/*
+cvvdp=7.9368 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps40/40_720_1500/*
+cvvdp=8.5955 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps40/40_864_1500/*
+cvvdp=8.5875 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps50/50_1080_1500/*
+cvvdp=8.7347 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps50/50_360_1500/*
+cvvdp=7.4310 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps50/50_480_1500/*
+cvvdp=8.0154 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps50/50_720_1500/*
+cvvdp=8.6964 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps50/50_864_1500/*
+cvvdp=8.6130 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps60/60_1080_1500/*
+cvvdp=8.6788 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps60/60_360_1500/*
+cvvdp=7.4645 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps60/60_480_1500/*
+cvvdp=8.0630 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps60/60_720_1500/*
+cvvdp=8.7437 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps60/60_864_1500/*
+cvvdp=8.5610 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps70/70_1080_1500/*
+cvvdp=8.5997 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps70/70_360_1500/*
+cvvdp=7.4821 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps70/70_480_1500/*
+cvvdp=8.0934 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps70/70_720_1500/*
+cvvdp=8.7569 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps70/70_864_1500/*
+cvvdp=8.5253 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps80/80_1080_1500/*
+cvvdp=8.5141 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps80/80_360_1500/*
+cvvdp=7.4917 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps80/80_480_1500/*
+cvvdp=8.1005 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps80/80_720_1500/*
+cvvdp=8.7481 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps80/80_864_1500/*
+cvvdp=8.4180 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps90/90_1080_1500/*
+cvvdp=8.3947 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps90/90_360_1500/*
+cvvdp=7.4929 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps90/90_480_1500/*
+cvvdp=8.0937 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps90/90_720_1500/*
+cvvdp=8.7197 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/1500kbps/fps90/90_864_1500/*
+cvvdp=8.3710 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 2000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps100/100_1080_2000/*
+cvvdp=8.5937 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps100/100_360_2000/*
+cvvdp=7.5282 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps100/100_480_2000/*
+cvvdp=8.1599 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps100/100_720_2000/*
+cvvdp=8.8393 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps100/100_864_2000/*
+cvvdp=8.5527 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps110/110_1080_2000/*
+cvvdp=8.5329 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps110/110_360_2000/*
+cvvdp=7.5178 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps110/110_480_2000/*
+cvvdp=8.1617 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps110/110_720_2000/*
+cvvdp=8.8280 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps110/110_864_2000/*
+cvvdp=8.5169 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps120/120_1080_2000/*
+cvvdp=8.5084 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps120/120_360_2000/*
+cvvdp=7.5091 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps120/120_480_2000/*
+cvvdp=8.1526 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps120/120_720_2000/*
+cvvdp=8.8142 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps120/120_864_2000/*
+cvvdp=8.4911 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps30/30_1080_2000/*
+cvvdp=8.6022 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps30/30_360_2000/*
+cvvdp=7.2726 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps30/30_480_2000/*
+cvvdp=7.8065 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps30/30_720_2000/*
+cvvdp=8.4026 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps30/30_864_2000/*
+cvvdp=8.4899 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps40/40_1080_2000/*
+cvvdp=8.8390 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps40/40_360_2000/*
+cvvdp=7.3866 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps40/40_480_2000/*
+cvvdp=7.9654 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps40/40_720_2000/*
+cvvdp=8.6349 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps40/40_864_2000/*
+cvvdp=8.6956 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps50/50_1080_2000/*
+cvvdp=8.9089 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps50/50_360_2000/*
+cvvdp=7.4532 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps50/50_480_2000/*
+cvvdp=8.0541 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps50/50_720_2000/*
+cvvdp=8.7600 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps50/50_864_2000/*
+cvvdp=8.7625 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps60/60_1080_2000/*
+cvvdp=8.8923 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps60/60_360_2000/*
+cvvdp=7.4910 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps60/60_480_2000/*
+cvvdp=8.1114 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps60/60_720_2000/*
+cvvdp=8.8151 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps60/60_864_2000/*
+cvvdp=8.7605 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps70/70_1080_2000/*
+cvvdp=8.8290 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps70/70_360_2000/*
+cvvdp=7.5138 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps70/70_480_2000/*
+cvvdp=8.1516 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps70/70_720_2000/*
+cvvdp=8.8434 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps70/70_864_2000/*
+cvvdp=8.7262 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps80/80_1080_2000/*
+cvvdp=8.7662 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps80/80_360_2000/*
+cvvdp=7.5289 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps80/80_480_2000/*
+cvvdp=8.1610 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps80/80_720_2000/*
+cvvdp=8.8516 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps80/80_864_2000/*
+cvvdp=8.6678 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps90/90_1080_2000/*
+cvvdp=8.6858 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps90/90_360_2000/*
+cvvdp=7.5315 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps90/90_480_2000/*
+cvvdp=8.1635 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps90/90_720_2000/*
+cvvdp=8.8385 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/crytek_sponza/crytek_sponza_path3_seg3_1/2000kbps/fps90/90_864_2000/*
+cvvdp=8.5995 [JOD]
+
+Command executed successfully.

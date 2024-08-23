@@ -1,0 +1,1256 @@
+scene suntemple
+pathIdx 4, segIdx 0 speedIdx 0
+ref_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/ref166_1080/refOutput.mp4
+
+
+========================= bitrate 500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps100/100_1080_500/*
+cvvdp=5.6449 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps100/100_360_500/*
+cvvdp=4.9763 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps100/100_480_500/*
+cvvdp=5.4255 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps100/100_720_500/*
+cvvdp=5.7765 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps100/100_864_500/*
+cvvdp=5.6652 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps110/110_1080_500/*
+cvvdp=5.7162 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps110/110_360_500/*
+cvvdp=5.0131 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps110/110_480_500/*
+cvvdp=5.4278 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps110/110_720_500/*
+cvvdp=5.8253 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps110/110_864_500/*
+cvvdp=5.7602 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps120/120_1080_500/*
+cvvdp=5.3894 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps120/120_360_500/*
+cvvdp=4.9757 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps120/120_480_500/*
+cvvdp=5.3790 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps120/120_720_500/*
+cvvdp=5.6830 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps120/120_864_500/*
+cvvdp=5.6442 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps30/30_1080_500/*
+cvvdp=4.1316 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps30/30_360_500/*
+cvvdp=3.8152 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps30/30_480_500/*
+cvvdp=4.0579 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps30/30_720_500/*
+cvvdp=4.3326 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps30/30_864_500/*
+cvvdp=4.2573 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps40/40_1080_500/*
+cvvdp=4.5975 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps40/40_360_500/*
+cvvdp=4.1982 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps40/40_480_500/*
+cvvdp=4.4391 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps40/40_720_500/*
+cvvdp=4.7907 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps40/40_864_500/*
+cvvdp=4.7355 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps50/50_1080_500/*
+cvvdp=5.0605 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps50/50_360_500/*
+cvvdp=4.5246 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps50/50_480_500/*
+cvvdp=4.8189 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps50/50_720_500/*
+cvvdp=5.2181 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps50/50_864_500/*
+cvvdp=5.1637 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps60/60_1080_500/*
+cvvdp=5.5234 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps60/60_360_500/*
+cvvdp=4.8039 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps60/60_480_500/*
+cvvdp=5.2381 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps60/60_720_500/*
+cvvdp=5.7252 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps60/60_864_500/*
+cvvdp=5.5233 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps70/70_1080_500/*
+cvvdp=5.5026 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps70/70_360_500/*
+cvvdp=4.9122 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps70/70_480_500/*
+cvvdp=5.3434 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps70/70_720_500/*
+cvvdp=5.7888 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps70/70_864_500/*
+cvvdp=5.5866 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps80/80_1080_500/*
+cvvdp=5.5086 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps80/80_360_500/*
+cvvdp=4.9741 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps80/80_480_500/*
+cvvdp=5.4318 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps80/80_720_500/*
+cvvdp=5.8608 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps80/80_864_500/*
+cvvdp=5.5693 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps90/90_1080_500/*
+cvvdp=5.4720 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps90/90_360_500/*
+cvvdp=4.9908 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps90/90_480_500/*
+cvvdp=5.4383 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps90/90_720_500/*
+cvvdp=5.7756 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/500kbps/fps90/90_864_500/*
+cvvdp=5.5104 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps100/100_1080_1000/*
+cvvdp=6.6076 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps100/100_360_1000/*
+cvvdp=5.2989 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps100/100_480_1000/*
+cvvdp=5.9098 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps100/100_720_1000/*
+cvvdp=6.7369 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps100/100_864_1000/*
+cvvdp=6.6455 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps110/110_1080_1000/*
+cvvdp=6.7891 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps110/110_360_1000/*
+cvvdp=5.3483 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps110/110_480_1000/*
+cvvdp=5.9550 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps110/110_720_1000/*
+cvvdp=6.8555 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps110/110_864_1000/*
+cvvdp=6.7857 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps120/120_1080_1000/*
+cvvdp=6.7024 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps120/120_360_1000/*
+cvvdp=5.3228 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps120/120_480_1000/*
+cvvdp=5.9058 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps120/120_720_1000/*
+cvvdp=6.7344 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps120/120_864_1000/*
+cvvdp=6.6603 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps30/30_1080_1000/*
+cvvdp=4.3445 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps30/30_360_1000/*
+cvvdp=3.8876 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps30/30_480_1000/*
+cvvdp=4.1506 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps30/30_720_1000/*
+cvvdp=4.4562 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps30/30_864_1000/*
+cvvdp=4.4334 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps40/40_1080_1000/*
+cvvdp=4.9549 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps40/40_360_1000/*
+cvvdp=4.3105 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps40/40_480_1000/*
+cvvdp=4.5864 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps40/40_720_1000/*
+cvvdp=4.9953 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps40/40_864_1000/*
+cvvdp=5.0056 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps50/50_1080_1000/*
+cvvdp=5.4979 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps50/50_360_1000/*
+cvvdp=4.6901 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps50/50_480_1000/*
+cvvdp=5.0436 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps50/50_720_1000/*
+cvvdp=5.5228 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps50/50_864_1000/*
+cvvdp=5.5496 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps60/60_1080_1000/*
+cvvdp=6.2254 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps60/60_360_1000/*
+cvvdp=5.0253 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps60/60_480_1000/*
+cvvdp=5.5526 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps60/60_720_1000/*
+cvvdp=6.1890 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps60/60_864_1000/*
+cvvdp=6.1776 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps70/70_1080_1000/*
+cvvdp=6.3174 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps70/70_360_1000/*
+cvvdp=5.1623 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps70/70_480_1000/*
+cvvdp=5.6993 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps70/70_720_1000/*
+cvvdp=6.3683 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps70/70_864_1000/*
+cvvdp=6.3308 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps80/80_1080_1000/*
+cvvdp=6.3952 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps80/80_360_1000/*
+cvvdp=5.2699 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps80/80_480_1000/*
+cvvdp=5.8586 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps80/80_720_1000/*
+cvvdp=6.5459 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps80/80_864_1000/*
+cvvdp=6.4682 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps90/90_1080_1000/*
+cvvdp=6.2704 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps90/90_360_1000/*
+cvvdp=5.2947 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps90/90_480_1000/*
+cvvdp=5.8630 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps90/90_720_1000/*
+cvvdp=6.5209 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1000kbps/fps90/90_864_1000/*
+cvvdp=6.3482 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps100/100_1080_1500/*
+cvvdp=7.1026 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps100/100_360_1500/*
+cvvdp=5.4076 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps100/100_480_1500/*
+cvvdp=6.0797 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps100/100_720_1500/*
+cvvdp=7.0357 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps100/100_864_1500/*
+cvvdp=7.0685 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps110/110_1080_1500/*
+cvvdp=7.3392 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps110/110_360_1500/*
+cvvdp=5.4634 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps110/110_480_1500/*
+cvvdp=6.1455 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps110/110_720_1500/*
+cvvdp=7.2227 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps110/110_864_1500/*
+cvvdp=7.2958 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps120/120_1080_1500/*
+cvvdp=7.1985 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps120/120_360_1500/*
+cvvdp=5.4423 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps120/120_480_1500/*
+cvvdp=6.1089 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps120/120_720_1500/*
+cvvdp=7.1064 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps120/120_864_1500/*
+cvvdp=7.1710 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps30/30_1080_1500/*
+cvvdp=4.3864 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps30/30_360_1500/*
+cvvdp=3.9058 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps30/30_480_1500/*
+cvvdp=4.1782 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps30/30_720_1500/*
+cvvdp=4.4801 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps30/30_864_1500/*
+cvvdp=4.4669 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps40/40_1080_1500/*
+cvvdp=5.0243 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps40/40_360_1500/*
+cvvdp=4.3431 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps40/40_480_1500/*
+cvvdp=4.6332 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps40/40_720_1500/*
+cvvdp=5.0529 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps40/40_864_1500/*
+cvvdp=5.0833 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps50/50_1080_1500/*
+cvvdp=5.6162 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps50/50_360_1500/*
+cvvdp=4.7453 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps50/50_480_1500/*
+cvvdp=5.1110 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps50/50_720_1500/*
+cvvdp=5.6058 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps50/50_864_1500/*
+cvvdp=5.6504 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps60/60_1080_1500/*
+cvvdp=6.3897 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps60/60_360_1500/*
+cvvdp=5.1005 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps60/60_480_1500/*
+cvvdp=5.6491 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps60/60_720_1500/*
+cvvdp=6.3279 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps60/60_864_1500/*
+cvvdp=6.3777 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps70/70_1080_1500/*
+cvvdp=6.5164 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps70/70_360_1500/*
+cvvdp=5.2457 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps70/70_480_1500/*
+cvvdp=5.8207 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps70/70_720_1500/*
+cvvdp=6.5420 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps70/70_864_1500/*
+cvvdp=6.5488 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps80/80_1080_1500/*
+cvvdp=6.7138 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps80/80_360_1500/*
+cvvdp=5.3681 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps80/80_480_1500/*
+cvvdp=6.0043 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps80/80_720_1500/*
+cvvdp=6.7639 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps80/80_864_1500/*
+cvvdp=6.7445 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps90/90_1080_1500/*
+cvvdp=6.6359 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps90/90_360_1500/*
+cvvdp=5.4046 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps90/90_480_1500/*
+cvvdp=6.0206 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps90/90_720_1500/*
+cvvdp=6.7689 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/1500kbps/fps90/90_864_1500/*
+cvvdp=6.6566 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 2000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps100/100_1080_2000/*
+cvvdp=7.3035 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps100/100_360_2000/*
+cvvdp=5.4646 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps100/100_480_2000/*
+cvvdp=6.1699 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps100/100_720_2000/*
+cvvdp=7.1993 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps100/100_864_2000/*
+cvvdp=7.2776 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps110/110_1080_2000/*
+cvvdp=7.5994 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps110/110_360_2000/*
+cvvdp=5.5234 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps110/110_480_2000/*
+cvvdp=6.2441 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps110/110_720_2000/*
+cvvdp=7.4015 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps110/110_864_2000/*
+cvvdp=7.4899 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps120/120_1080_2000/*
+cvvdp=7.4904 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps120/120_360_2000/*
+cvvdp=5.5044 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps120/120_480_2000/*
+cvvdp=6.2047 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps120/120_720_2000/*
+cvvdp=7.3035 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps120/120_864_2000/*
+cvvdp=7.3709 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps30/30_1080_2000/*
+cvvdp=4.3926 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps30/30_360_2000/*
+cvvdp=3.9127 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps30/30_480_2000/*
+cvvdp=4.1858 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps30/30_720_2000/*
+cvvdp=4.4906 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps30/30_864_2000/*
+cvvdp=4.4831 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps40/40_1080_2000/*
+cvvdp=5.0517 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps40/40_360_2000/*
+cvvdp=4.3559 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps40/40_480_2000/*
+cvvdp=4.6502 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps40/40_720_2000/*
+cvvdp=5.0743 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps40/40_864_2000/*
+cvvdp=5.1073 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps50/50_1080_2000/*
+cvvdp=5.6505 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps50/50_360_2000/*
+cvvdp=4.7655 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps50/50_480_2000/*
+cvvdp=5.1389 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps50/50_720_2000/*
+cvvdp=5.6431 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps50/50_864_2000/*
+cvvdp=5.6942 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps60/60_1080_2000/*
+cvvdp=6.4652 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps60/60_360_2000/*
+cvvdp=5.1369 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps60/60_480_2000/*
+cvvdp=5.6931 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps60/60_720_2000/*
+cvvdp=6.3827 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps60/60_864_2000/*
+cvvdp=6.4616 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps70/70_1080_2000/*
+cvvdp=6.6443 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps70/70_360_2000/*
+cvvdp=5.2884 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps70/70_480_2000/*
+cvvdp=5.8745 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps70/70_720_2000/*
+cvvdp=6.6181 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps70/70_864_2000/*
+cvvdp=6.6568 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps80/80_1080_2000/*
+cvvdp=6.8356 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps80/80_360_2000/*
+cvvdp=5.4177 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps80/80_480_2000/*
+cvvdp=6.0675 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps80/80_720_2000/*
+cvvdp=6.8646 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps80/80_864_2000/*
+cvvdp=6.8691 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps90/90_1080_2000/*
+cvvdp=6.7775 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps90/90_360_2000/*
+cvvdp=5.4544 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps90/90_480_2000/*
+cvvdp=6.0963 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps90/90_720_2000/*
+cvvdp=6.8798 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/suntemple/suntemple_path5_seg1_1/2000kbps/fps90/90_864_2000/*
+cvvdp=6.8274 [JOD]
+
+Command executed successfully.

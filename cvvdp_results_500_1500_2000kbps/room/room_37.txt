@@ -1,0 +1,1256 @@
+scene room
+pathIdx 4, segIdx 0 speedIdx 0
+ref_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/ref166_1080/refOutput.mp4
+
+
+========================= bitrate 500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps100/100_1080_500/*
+cvvdp=7.3235 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps100/100_360_500/*
+cvvdp=7.3368 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps100/100_480_500/*
+cvvdp=7.6275 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps100/100_720_500/*
+cvvdp=7.7654 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps100/100_864_500/*
+cvvdp=7.3945 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps110/110_1080_500/*
+cvvdp=7.3492 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps110/110_360_500/*
+cvvdp=7.3005 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps110/110_480_500/*
+cvvdp=7.5798 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps110/110_720_500/*
+cvvdp=7.7191 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps110/110_864_500/*
+cvvdp=7.3448 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps120/120_1080_500/*
+cvvdp=7.3302 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps120/120_360_500/*
+cvvdp=7.2957 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps120/120_480_500/*
+cvvdp=7.5502 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps120/120_720_500/*
+cvvdp=7.6599 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps120/120_864_500/*
+cvvdp=7.3624 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps30/30_1080_500/*
+cvvdp=6.3983 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps30/30_360_500/*
+cvvdp=6.6567 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps30/30_480_500/*
+cvvdp=6.7629 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps30/30_720_500/*
+cvvdp=6.6639 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps30/30_864_500/*
+cvvdp=6.5089 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps40/40_1080_500/*
+cvvdp=6.8217 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps40/40_360_500/*
+cvvdp=7.0790 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps40/40_480_500/*
+cvvdp=7.2814 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps40/40_720_500/*
+cvvdp=7.2572 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps40/40_864_500/*
+cvvdp=6.9777 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps50/50_1080_500/*
+cvvdp=7.1278 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps50/50_360_500/*
+cvvdp=7.3276 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps50/50_480_500/*
+cvvdp=7.5507 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps50/50_720_500/*
+cvvdp=7.6025 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps50/50_864_500/*
+cvvdp=7.1744 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps60/60_1080_500/*
+cvvdp=7.2888 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps60/60_360_500/*
+cvvdp=7.4173 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps60/60_480_500/*
+cvvdp=7.6687 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps60/60_720_500/*
+cvvdp=7.7950 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps60/60_864_500/*
+cvvdp=7.3198 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps70/70_1080_500/*
+cvvdp=7.3668 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps70/70_360_500/*
+cvvdp=7.4078 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps70/70_480_500/*
+cvvdp=7.7215 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps70/70_720_500/*
+cvvdp=7.8802 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps70/70_864_500/*
+cvvdp=7.3551 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps80/80_1080_500/*
+cvvdp=7.4583 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps80/80_360_500/*
+cvvdp=7.4127 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps80/80_480_500/*
+cvvdp=7.7133 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps80/80_720_500/*
+cvvdp=7.8616 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps80/80_864_500/*
+cvvdp=7.4620 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps90/90_1080_500/*
+cvvdp=7.3991 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps90/90_360_500/*
+cvvdp=7.3563 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps90/90_480_500/*
+cvvdp=7.6652 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps90/90_720_500/*
+cvvdp=7.8298 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/500kbps/fps90/90_864_500/*
+cvvdp=7.4371 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps100/100_1080_1000/*
+cvvdp=7.8560 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps100/100_360_1000/*
+cvvdp=7.6000 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps100/100_480_1000/*
+cvvdp=7.9957 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps100/100_720_1000/*
+cvvdp=8.3558 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps100/100_864_1000/*
+cvvdp=7.8535 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps110/110_1080_1000/*
+cvvdp=7.9320 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps110/110_360_1000/*
+cvvdp=7.5951 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps110/110_480_1000/*
+cvvdp=8.0066 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps110/110_720_1000/*
+cvvdp=8.3540 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps110/110_864_1000/*
+cvvdp=7.8597 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps120/120_1080_1000/*
+cvvdp=7.9104 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps120/120_360_1000/*
+cvvdp=7.5743 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps120/120_480_1000/*
+cvvdp=7.9847 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps120/120_720_1000/*
+cvvdp=8.3052 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps120/120_864_1000/*
+cvvdp=7.8380 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps30/30_1080_1000/*
+cvvdp=6.5121 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps30/30_360_1000/*
+cvvdp=6.6971 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps30/30_480_1000/*
+cvvdp=6.8037 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps30/30_720_1000/*
+cvvdp=6.7007 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps30/30_864_1000/*
+cvvdp=6.6091 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps40/40_1080_1000/*
+cvvdp=7.1122 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps40/40_360_1000/*
+cvvdp=7.1677 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps40/40_480_1000/*
+cvvdp=7.3718 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps40/40_720_1000/*
+cvvdp=7.3587 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps40/40_864_1000/*
+cvvdp=7.2256 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps50/50_1080_1000/*
+cvvdp=7.4802 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps50/50_360_1000/*
+cvvdp=7.4644 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps50/50_480_1000/*
+cvvdp=7.6978 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps50/50_720_1000/*
+cvvdp=7.8073 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps50/50_864_1000/*
+cvvdp=7.5918 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps60/60_1080_1000/*
+cvvdp=7.6919 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps60/60_360_1000/*
+cvvdp=7.5963 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps60/60_480_1000/*
+cvvdp=7.9058 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps60/60_720_1000/*
+cvvdp=8.1118 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps60/60_864_1000/*
+cvvdp=7.7829 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps70/70_1080_1000/*
+cvvdp=7.7640 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps70/70_360_1000/*
+cvvdp=7.6217 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps70/70_480_1000/*
+cvvdp=8.0016 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps70/70_720_1000/*
+cvvdp=8.2506 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps70/70_864_1000/*
+cvvdp=7.8505 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps80/80_1080_1000/*
+cvvdp=7.8666 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps80/80_360_1000/*
+cvvdp=7.6421 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps80/80_480_1000/*
+cvvdp=8.0490 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps80/80_720_1000/*
+cvvdp=8.3912 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps80/80_864_1000/*
+cvvdp=7.9316 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps90/90_1080_1000/*
+cvvdp=7.8814 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps90/90_360_1000/*
+cvvdp=7.6143 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps90/90_480_1000/*
+cvvdp=8.0279 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps90/90_720_1000/*
+cvvdp=8.3692 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1000kbps/fps90/90_864_1000/*
+cvvdp=7.8621 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 1500 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps100/100_1080_1500/*
+cvvdp=8.1343 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps100/100_360_1500/*
+cvvdp=7.6898 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps100/100_480_1500/*
+cvvdp=8.1200 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps100/100_720_1500/*
+cvvdp=8.5773 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps100/100_864_1500/*
+cvvdp=8.1497 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps110/110_1080_1500/*
+cvvdp=8.1619 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps110/110_360_1500/*
+cvvdp=7.6919 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps110/110_480_1500/*
+cvvdp=8.1408 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps110/110_720_1500/*
+cvvdp=8.6173 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps110/110_864_1500/*
+cvvdp=8.1645 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps120/120_1080_1500/*
+cvvdp=8.1095 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps120/120_360_1500/*
+cvvdp=7.6799 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps120/120_480_1500/*
+cvvdp=8.1259 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps120/120_720_1500/*
+cvvdp=8.5579 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps120/120_864_1500/*
+cvvdp=8.1109 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps30/30_1080_1500/*
+cvvdp=6.5256 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps30/30_360_1500/*
+cvvdp=6.7080 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps30/30_480_1500/*
+cvvdp=6.8082 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps30/30_720_1500/*
+cvvdp=6.7064 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps30/30_864_1500/*
+cvvdp=6.6338 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps40/40_1080_1500/*
+cvvdp=7.1613 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps40/40_360_1500/*
+cvvdp=7.1886 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps40/40_480_1500/*
+cvvdp=7.3919 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps40/40_720_1500/*
+cvvdp=7.3794 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps40/40_864_1500/*
+cvvdp=7.2887 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps50/50_1080_1500/*
+cvvdp=7.6010 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps50/50_360_1500/*
+cvvdp=7.5048 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps50/50_480_1500/*
+cvvdp=7.7384 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps50/50_720_1500/*
+cvvdp=7.8507 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps50/50_864_1500/*
+cvvdp=7.7039 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps60/60_1080_1500/*
+cvvdp=7.9006 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps60/60_360_1500/*
+cvvdp=7.6485 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps60/60_480_1500/*
+cvvdp=7.9732 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps60/60_720_1500/*
+cvvdp=8.1788 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps60/60_864_1500/*
+cvvdp=7.9890 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps70/70_1080_1500/*
+cvvdp=8.0146 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps70/70_360_1500/*
+cvvdp=7.6912 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps70/70_480_1500/*
+cvvdp=8.0861 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps70/70_720_1500/*
+cvvdp=8.3577 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps70/70_864_1500/*
+cvvdp=8.1057 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps80/80_1080_1500/*
+cvvdp=8.1478 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps80/80_360_1500/*
+cvvdp=7.7151 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps80/80_480_1500/*
+cvvdp=8.1622 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps80/80_720_1500/*
+cvvdp=8.5366 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps80/80_864_1500/*
+cvvdp=8.2236 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps90/90_1080_1500/*
+cvvdp=8.1619 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps90/90_360_1500/*
+cvvdp=7.6985 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps90/90_480_1500/*
+cvvdp=8.1433 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps90/90_720_1500/*
+cvvdp=8.5847 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/1500kbps/fps90/90_864_1500/*
+cvvdp=8.1902 [JOD]
+
+Command executed successfully.
+
+
+========================= bitrate 2000 =========================
+
+
+========================= fps100 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps100
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps100/100_1080_2000/*
+cvvdp=8.3034 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps100/100_360_2000/*
+cvvdp=7.7341 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps100/100_480_2000/*
+cvvdp=8.1856 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps100/100_720_2000/*
+cvvdp=8.6917 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps100/100_864_2000/*
+cvvdp=8.3710 [JOD]
+
+Command executed successfully.
+
+
+========================= fps110 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps110
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps110/110_1080_2000/*
+cvvdp=8.3450 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps110/110_360_2000/*
+cvvdp=7.7339 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps110/110_480_2000/*
+cvvdp=8.2055 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps110/110_720_2000/*
+cvvdp=8.7456 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps110/110_864_2000/*
+cvvdp=8.3843 [JOD]
+
+Command executed successfully.
+
+
+========================= fps120 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps120
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps120/120_1080_2000/*
+cvvdp=8.3174 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps120/120_360_2000/*
+cvvdp=7.7303 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps120/120_480_2000/*
+cvvdp=8.1928 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps120/120_720_2000/*
+cvvdp=8.6987 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps120/120_864_2000/*
+cvvdp=8.3443 [JOD]
+
+Command executed successfully.
+
+
+========================= fps30 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps30
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps30/30_1080_2000/*
+cvvdp=6.5243 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps30/30_360_2000/*
+cvvdp=6.7105 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps30/30_480_2000/*
+cvvdp=6.8078 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps30/30_720_2000/*
+cvvdp=6.7042 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps30/30_864_2000/*
+cvvdp=6.6411 [JOD]
+
+Command executed successfully.
+
+
+========================= fps40 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps40
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps40/40_1080_2000/*
+cvvdp=7.1801 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps40/40_360_2000/*
+cvvdp=7.2011 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps40/40_480_2000/*
+cvvdp=7.3955 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps40/40_720_2000/*
+cvvdp=7.3828 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps40/40_864_2000/*
+cvvdp=7.3139 [JOD]
+
+Command executed successfully.
+
+
+========================= fps50 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps50
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps50/50_1080_2000/*
+cvvdp=7.6490 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps50/50_360_2000/*
+cvvdp=7.5218 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps50/50_480_2000/*
+cvvdp=7.7521 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps50/50_720_2000/*
+cvvdp=7.8634 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps50/50_864_2000/*
+cvvdp=7.7584 [JOD]
+
+Command executed successfully.
+
+
+========================= fps60 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps60
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps60/60_1080_2000/*
+cvvdp=7.9720 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps60/60_360_2000/*
+cvvdp=7.6737 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps60/60_480_2000/*
+cvvdp=7.9994 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps60/60_720_2000/*
+cvvdp=8.2034 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps60/60_864_2000/*
+cvvdp=8.0731 [JOD]
+
+Command executed successfully.
+
+
+========================= fps70 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps70
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps70/70_1080_2000/*
+cvvdp=8.1541 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps70/70_360_2000/*
+cvvdp=7.7197 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps70/70_480_2000/*
+cvvdp=8.1272 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps70/70_720_2000/*
+cvvdp=8.4006 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps70/70_864_2000/*
+cvvdp=8.2301 [JOD]
+
+Command executed successfully.
+
+
+========================= fps80 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps80
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps80/80_1080_2000/*
+cvvdp=8.3273 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps80/80_360_2000/*
+cvvdp=7.7495 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps80/80_480_2000/*
+cvvdp=8.2150 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps80/80_720_2000/*
+cvvdp=8.6240 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps80/80_864_2000/*
+cvvdp=8.3896 [JOD]
+
+Command executed successfully.
+
+
+========================= fps90 =========================
+current_dir_path 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps90
+
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps90/90_1080_2000/*
+cvvdp=8.3550 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps90/90_360_2000/*
+cvvdp=7.7386 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps90/90_480_2000/*
+cvvdp=8.2011 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps90/90_720_2000/*
+cvvdp=8.6765 [JOD]
+
+Command executed successfully.
+dec_file 
+ /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/room/room_path5_seg1_1/2000kbps/fps90/90_864_2000/*
+cvvdp=8.3882 [JOD]
+
+Command executed successfully.
