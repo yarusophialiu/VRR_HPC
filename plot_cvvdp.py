@@ -1,16 +1,19 @@
 import os
 import numpy as np
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, date
 import matplotlib.pyplot as plt
 
 
 
 def type1(df, label_idx, number, refresh_rate, bitrate, SAVE = False):
     """x axis is bandwidth, y axis is JOD, color is resolution"""
-    # bandwidth_dict = {10.37349118: 32000, 9.680344: 16000, 8.98719682:8000}
-    fig, ax = plt.subplots(figsize=(8, 5))
+    bitrate_df = df.iloc[label_idx, 0] # check if bitrate is correct
+    print(f'bitrate_df {bitrate_df}, bitrate {bitrate}')
 
+    assert bitrate_df == bitrate
+
+    fig, ax = plt.subplots(figsize=(8, 5))
     labels = ['360p', '480p', '720p', '864p', '1080p']
     colors = ['blue', 'greenyellow', 'red', 'green', 'orange',]
     # colors = ['blue', 'greenyellow', 'red', 'gray', 'cyan', 'green', 'orange',]
@@ -25,6 +28,7 @@ def type1(df, label_idx, number, refresh_rate, bitrate, SAVE = False):
 
         jod = []
         for num in range(0, number): # e.g. first 3 fps, i.e. 30, 60, 70
+
             val = df.iloc[label_idx, 1+i+5*num]
             jod.append(val)
         jod = [float(v) for v in jod]        
@@ -39,18 +43,24 @@ def type1(df, label_idx, number, refresh_rate, bitrate, SAVE = False):
     ax.legend()
 
     if SAVE:
-        date = datetime.now().strftime("%m-%d")
-        output_dir = os.path.join(f'{VRR_PLOT_HPC}/plot-{date}/', f'{scene_name}_plot1_{sheet_name}')        
-        os.makedirs(output_dir, exist_ok=True)
-        # current_time = datetime.now().strftime("%H%M")
-        plt.savefig(f"{output_dir}/p1_{sheet_name}_{bitrate}.png")
-
+        p1 = f'{scene_output_dir}/plot1'
+        os.makedirs(p1, exist_ok=True)
+        img_path = f"{p1}/p1_{scene_name}_{sheet_name}_{bitrate}.png"
+        if not os.path.exists(img_path):
+            fig.savefig(img_path)
+            print(f"File saved: {img_path}")
+        else:
+            print(f"File already exists: {img_path}")
+        # plt.savefig(f"{p1}/p1_{scene_name}_{sheet_name}_{bitrate}.png")
     if SHOW:
         plt.show()
 
 
 def type2(df, label_idx, bitrate, number, refresh_rate, SAVE = False):
     """x axis is resolution, y axis is JOD, color is bitrate, labels are refresh rate"""
+    bitrate_df = df.iloc[label_idx, 0] # check if bitrate is correct
+    print(f'bitrate_df {bitrate_df}, bitrate {bitrate}')
+
     x_values = np.array([1080, 864, 720, 480, 360,]) # resolution
     x_values = sorted(x_values)
     # print(f'\n\n\n')
@@ -75,11 +85,15 @@ def type2(df, label_idx, bitrate, number, refresh_rate, SAVE = False):
     ax.grid(True)
     ax.legend()
     if SAVE:
-        date = datetime.now().strftime("%m-%d")
-        output_dir = os.path.join(f'{VRR_PLOT_HPC}/plot-{date}/', f'{scene_name}_plot2_{sheet_name}')
-        os.makedirs(output_dir, exist_ok=True)
-        # current_time = datetime.now().strftime("%H%M")
-        fig.savefig(f"{output_dir}/p2_{sheet_name}_{bitrate}.png")
+        p2 = f'{scene_output_dir}/plot2'
+        os.makedirs(p2, exist_ok=True)
+        img_path = f"{p2}/p2_{scene_name}_{sheet_name}_{bitrate}.png"
+        if not os.path.exists(img_path):
+            fig.savefig(img_path)
+            print(f"File saved: {img_path}")
+        else:
+            print(f"File already exists: {img_path}")
+        # fig.savefig(f"{p2}/p2_{scene_name}_{sheet_name}_{bitrate}.png")
     if SHOW:
         plt.show()
 
@@ -95,32 +109,52 @@ def type2(df, label_idx, bitrate, number, refresh_rate, SAVE = False):
 # in type 2 change 2+6*num:9+6*num to 2+7*num:9+7*num if has 676 column
 if __name__ == "__main__":
     SAVE = True # True, False
-    SHOW = True
+    SHOW = False
 
     VRR_PLOT_HPC = r'C:\Users\15142\Projects\VRR\VRR_Plot_HPC'
-    scene_name = 'bistro' # suntemple_statue
-    file_path = f'{VRR_PLOT_HPC}/data-08-09/{scene_name}.xlsx'
-
-    bitrate_dict = {500: 0, 1000: 1, 1500: 2, 2000: 3,}
     refresh_rate = [30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
-    bitrates = [500, 1000, 1500, 2000]
+    
+    bitrate_dict = {500: 0, 1000: 1, 1500: 2, 2000: 3,}
+    # bitrates = [500, 1000, 1500, 2000]
     bitrates = [500,]
 
-    for path in range(1, 6):
-        for seg in range(1, 4):
-            for speed in range(1, 4):
-                sheet_name = f'path{path}_seg{seg}_{speed}'
-                df = pd.read_excel(file_path, sheet_name=sheet_name, na_values=['NA'])
-                print(f'SCENE {sheet_name}')
-                for bitrate in bitrates:
-                    print(f'bitrate {bitrate}')
-                    print(f'\n\n\n================= bitrate {bitrate} =================')
-                    max_jod = []
-                    max_res = []
-                    type1(df, bitrate_dict[bitrate], len(refresh_rate), refresh_rate, bitrate, SAVE)
-                    type2(df, bitrate_dict[bitrate], bitrate, len(refresh_rate), refresh_rate, SAVE)
-                    print(f'max_jod {max_jod}')
-                    max_idx = np.argmax(max_jod) # only availble if type2 is run
-                    # print(f'\nmax_res {max_res}')
-                    print(f'bitrate {bitrate}, max JOD is {max_jod[max_idx]} with resolution \
-                        {max_res[max_idx]} fps {refresh_rate[max_idx]}')
+    # bitrate_dict = {400: 0, 700: 1, 900: 2}
+    # bitrates = [400, 700, 900]
+    
+    # bitrate_dict = {300: 0,}
+    # bitrates = [300,]
+    
+    SCENES = ['bedroom', 'bistro', 'crytek_sponza', 'gallery', 'living_room', \
+        'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue']
+
+    # SCENES = ['bedroom', 'crytek_sponza', 'gallery', 'living_room', 'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue']
+    # problem: living_room, suntemple, sibenik, room, gallery, crytek_sponza
+    SCENES = ['bistro']
+    # excel_date = '08-09'
+    excel_date = '500_1500_2000kbps' # '400_700_900kbps'
+    
+    for scene_name in SCENES:
+        print(f'\n\n\n================================== SCENE {scene_name} ==================================')
+        file_path = f'{VRR_PLOT_HPC}/data-{excel_date}/{scene_name}.xlsx'
+        for path in range(1, 2):
+            for seg in range(1, 2):
+                for speed in range(1, 2):
+                    if SAVE:
+                        today = date.today()
+                        scene_output_dir = f'{VRR_PLOT_HPC}/plot-{today}/{scene_name}'
+                        os.makedirs(scene_output_dir, exist_ok=True)
+
+                    sheet_name = f'path{path}_seg{seg}_{speed}'
+                    df = pd.read_excel(file_path, sheet_name=sheet_name, na_values=['NA'])
+                    print(f'============================ sheet_name {sheet_name} ============================')
+                    for bitrate in bitrates:
+                        # print(f'bitrate {bitrate}')
+                        print(f'\n================= bitrate {bitrate} kbps =================')
+                        max_jod = []
+                        max_res = []
+                        type1(df, bitrate_dict[bitrate], len(refresh_rate), refresh_rate, bitrate, SAVE)
+                        type2(df, bitrate_dict[bitrate], bitrate, len(refresh_rate), refresh_rate, SAVE)
+                        print(f'max_jod {max_jod}')
+                        max_idx = np.argmax(max_jod) # only availble if type2 is run
+                        # print(f'\nmax_res {max_res}')
+                        print(f'bitrate {bitrate}, max JOD is {max_jod[max_idx]} with resolution {max_res[max_idx]} fps {refresh_rate[max_idx]}')
