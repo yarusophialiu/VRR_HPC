@@ -54,3 +54,61 @@ def mapPathToId(path, seg, speed):
     id = (path-1) * 9 + (seg-1) * 3 + speed - 1
     print(f'id {id}')
     return id
+
+
+colors_matplotlib = [
+    'b',        # Blue
+    'g',        # Green
+    'r',        # Red
+    'c',        # Cyan
+    'm',        # Magenta
+    'y',        # Yellow
+    'k',        # Black
+    'teal',        # teal
+    'orange',   # Orange
+    'purple',   # Purple
+    'brown',    # Brown
+    'pink',     # Pink
+    'gray',     # Gray
+    'olive',    # Olive
+    'navy',      # Navy
+    'lime',        # Lime
+    'maroon',      # Maroon
+    'gold',        # Gold
+    'violet',      # Violet
+    'indigo',      # Indigo
+    'crimson',     # Crimson
+    'plum',        # Plum
+    'peachpuff',   # Peachpuff
+    'aqua',        # Aqua
+    'coral',       # Coral
+    'salmon',      # Salmon
+    'khaki',       # Khaki
+    'turquoise',   # Turquoise
+    'orchid',      # Orchid
+    'sienna',      # Sienna
+    'slategray',   # Slate Gray
+    'steelblue',   # Steel Blue
+    'peru',        # Peru
+    'tomato',      # Tomato
+    'chocolate',   # Chocolate
+    'wheat',       # Wheat
+    'dodgerblue',  # Dodger Blue
+    'firebrick',   # Firebrick
+    'goldenrod',   # Goldenrod
+    'darkolivegreen', # Dark Olive Green
+    'darkorange',  # Dark Orange
+    'deeppink',    # Deep Pink
+    'deepskyblue', # Deep Sky Blue
+    'lavender',    # Lavender
+    'midnightblue', # Midnight Blue
+    'royalblue',   # Royal Blue
+    'seagreen',    # Sea Green
+    'skyblue',     # Sky Blue
+    'springgreen', # Spring Green
+    'tan',         # Tan
+    'thistle',     # Thistle
+]
+
+
+refresh_rate = [30, 40, 50, 60, 70, 80, 90, 100, 110, 120]

@@ -9,7 +9,8 @@ import matplotlib.pyplot as plt
 def type1(df, label_idx, number, refresh_rate, bitrate, SAVE = False):
     """x axis is bandwidth, y axis is JOD, color is resolution"""
     bitrate_df = df.iloc[label_idx, 0] # check if bitrate is correct
-    print(f'bitrate_df {bitrate_df}, bitrate {bitrate}')
+    if DEBUG:
+        print(f'bitrate_df {bitrate_df}, bitrate {bitrate}')
 
     assert bitrate_df == bitrate
 
@@ -38,7 +39,7 @@ def type1(df, label_idx, number, refresh_rate, bitrate, SAVE = False):
     ax.set_xlabel('Refresh rate (Hz)')
     ax.set_xticks(refresh_rate)
     ax.set_ylabel('JOD')
-    ax.set_title(f'CVVDP results- path{path}_seg{seg}, speed {speed} - {bitrate} kbps')
+    ax.set_title(f'CVVDP - scene {scene_name}- path{path}_seg{seg}, speed {speed} - {bitrate} kbps')
     ax.grid(True)
     ax.legend()
 
@@ -59,7 +60,8 @@ def type1(df, label_idx, number, refresh_rate, bitrate, SAVE = False):
 def type2(df, label_idx, bitrate, number, refresh_rate, SAVE = False):
     """x axis is resolution, y axis is JOD, color is bitrate, labels are refresh rate"""
     bitrate_df = df.iloc[label_idx, 0] # check if bitrate is correct
-    print(f'bitrate_df {bitrate_df}, bitrate {bitrate}')
+    if DEBUG:
+        print(f'bitrate_df {bitrate_df}, bitrate {bitrate}')
 
     x_values = np.array([1080, 864, 720, 480, 360,]) # resolution
     x_values = sorted(x_values)
@@ -81,7 +83,7 @@ def type2(df, label_idx, bitrate, number, refresh_rate, SAVE = False):
 
     ax.set_xlabel('Resolution')
     ax.set_ylabel('JOD')
-    ax.set_title(f'CVVDP results - path{path}_seg{seg}, speed {speed} - {bitrate} kbps')
+    ax.set_title(f'CVVDP - scene {scene_name} - path{path}_seg{seg}, speed {speed} - {bitrate} kbps')
     ax.grid(True)
     ax.legend()
     if SAVE:
@@ -108,15 +110,16 @@ def type2(df, label_idx, bitrate, number, refresh_rate, SAVE = False):
 # Plot cvvdp results from csv file
 # in type 2 change 2+6*num:9+6*num to 2+7*num:9+7*num if has 676 column
 if __name__ == "__main__":
-    SAVE = True # True, False
+    SAVE = True # False, False
     SHOW = False
+    DEBUG = False
 
     VRR_PLOT_HPC = r'C:\Users\15142\Projects\VRR\VRR_Plot_HPC'
     refresh_rate = [30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
     
     bitrate_dict = {500: 0, 1000: 1, 1500: 2, 2000: 3,}
-    # bitrates = [500, 1000, 1500, 2000]
-    bitrates = [500,]
+    bitrates = [500, 1000, 1500, 2000]
+    # bitrates = [500,]
 
     # bitrate_dict = {400: 0, 700: 1, 900: 2}
     # bitrates = [400, 700, 900]
@@ -127,18 +130,20 @@ if __name__ == "__main__":
     SCENES = ['bedroom', 'bistro', 'crytek_sponza', 'gallery', 'living_room', \
         'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue']
 
-    # SCENES = ['bedroom', 'crytek_sponza', 'gallery', 'living_room', 'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue']
+    SCENES = ['bedroom', 'crytek_sponza', 'gallery', 'living_room', \
+        'lost_empire', 'room', 'sibenik', 'suntemple', 'suntemple_statue']
     # problem: living_room, suntemple, sibenik, room, gallery, crytek_sponza
-    SCENES = ['bistro']
+    # SCENES = ['bistro']
     # excel_date = '08-09'
     excel_date = '500_1500_2000kbps' # '400_700_900kbps'
     
     for scene_name in SCENES:
         print(f'\n\n\n================================== SCENE {scene_name} ==================================')
         file_path = f'{VRR_PLOT_HPC}/data-{excel_date}/{scene_name}.xlsx'
-        for path in range(1, 2):
-            for seg in range(1, 2):
-                for speed in range(1, 2):
+        for path in range(1, 6):
+            for seg in range(1, 4):
+                same_seg_different_speed = {}
+                for speed in range(1, 4):
                     if SAVE:
                         today = date.today()
                         scene_output_dir = f'{VRR_PLOT_HPC}/plot-{today}/{scene_name}'
@@ -149,7 +154,7 @@ if __name__ == "__main__":
                     print(f'============================ sheet_name {sheet_name} ============================')
                     for bitrate in bitrates:
                         # print(f'bitrate {bitrate}')
-                        print(f'\n================= bitrate {bitrate} kbps =================')
+                        print(f'================= bitrate {bitrate} kbps =================')
                         max_jod = []
                         max_res = []
                         type1(df, bitrate_dict[bitrate], len(refresh_rate), refresh_rate, bitrate, SAVE)
@@ -157,4 +162,4 @@ if __name__ == "__main__":
                         print(f'max_jod {max_jod}')
                         max_idx = np.argmax(max_jod) # only availble if type2 is run
                         # print(f'\nmax_res {max_res}')
-                        print(f'bitrate {bitrate}, max JOD is {max_jod[max_idx]} with resolution {max_res[max_idx]} fps {refresh_rate[max_idx]}')
+                        print(f'bitrate {bitrate}, max JOD is {max_jod[max_idx]} with resolution {max_res[max_idx]} fps {refresh_rate[max_idx]}\n')

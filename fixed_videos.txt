@@ -1,0 +1,62 @@
+/home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/fixed_videos/bedroom_path4_seg3_3/
+logger.info(f'result.stdout {result.stdout}')
+
+1000 1500 2000 500
+
+newRefPath /home/yl962/rds/hpc-work/VRR/VRRMP4//fixed_videos/bedroom_path4_seg3_3/refOutput.mp4
+newDecPath /home/yl962/rds/hpc-work/VRR/VRRMP4_CVVDP/fixed_videos/bedroom/bedroom_path4_seg3_3/*
+
+cvvdp=6.6462 [JOD]
+cvvdp=6.9037 [JOD]
+cvvdp=7.0242 [JOD]
+cvvdp=6.1198 [JOD]
+
+
+ref_file
+ /home/yl962/rds/hpc-work/VRR/VRRMP4//fixed_videos/bistro_path1_seg2_3/refOutput.mp4
+cvvdp=6.0654 [JOD]
+cvvdp=6.2434 [JOD]
+cvvdp=6.3353 [JOD]
+cvvdp=5.6165 [JOD]
+
+scene bistro
+ref_file
+ /home/yl962/rds/hpc-work/VRR/VRRMP4//fixed_videos/bistro_path1_seg3_2/refOutput.mp4
+cvvdp=7.3921 [JOD]
+cvvdp=7.6827 [JOD]
+cvvdp=7.8401 [JOD]
+cvvdp=6.6950 [JOD]
+
+ /home/yl962/rds/hpc-work/VRR/VRRMP4//fixed_videos/bistro_path4_seg1_3/refOutput.mp4
+cvvdp=7.6804 [JOD]
+cvvdp=7.8224 [JOD]
+cvvdp=7.8842 [JOD]
+cvvdp=6.5892 [JOD]
+
+
+ref_file
+ /home/yl962/rds/hpc-work/VRR/VRRMP4//fixed_videos/crytek_sponza_path1_seg2_1/refOutput.mp4
+cvvdp=7.2976 [JOD]
+cvvdp=7.4508 [JOD]
+cvvdp=7.5206 [JOD]
+cvvdp=6.8606 [JOD]
+
+ref_file
+ /home/yl962/rds/hpc-work/VRR/VRRMP4//fixed_videos/crytek_sponza_path2_seg2_1/refOutput.mp4
+cvvdp=6.8637 [JOD]
+cvvdp=7.0392 [JOD]
+cvvdp=7.1275 [JOD]
+cvvdp=6.4018 [JOD]
+
+ref_file
+ /home/yl962/rds/hpc-work/VRR/VRRMP4//fixed_videos/gallery_path5_seg2_3/refOutput.mp4
+cvvdp=5.4450 [JOD]
+cvvdp=5.6364 [JOD]
+cvvdp=5.7235 [JOD]
+cvvdp=4.9423 [JOD]
+
+ /home/yl962/rds/hpc-work/VRR/VRRMP4//fixed_videos/suntemple_path1_seg2_1/refOutput.mp4
+cvvdp=8.4613 [JOD]
+cvvdp=8.5988 [JOD]
+cvvdp=8.6459 [JOD]
+cvvdp=7.8617 [JOD]
