@@ -73,7 +73,7 @@ def find_comb_within_range(df, label_idx, bitrate, max_comb_per_sheet):
         jod_cvvdp = df.iloc[label_idx, 1+5*num:6+5*num].values
         jod_cvvdp = [float(v) for v in jod_cvvdp] 
         
-        # Find values within 0.25 range of the maximum
+        # Find values within THRESHOLD 0.25 range of the maximum
         max_jod_val_per_bitrate = max_comb_per_sheet[label_idx][2]
 
         close_to_max = [(index, value) for index, value in enumerate(jod_cvvdp) if abs(max_jod_val_per_bitrate - value) <= THRESHOLD]
@@ -92,17 +92,16 @@ def find_comb_within_range(df, label_idx, bitrate, max_comb_per_sheet):
 
 # find all refresh rate and resolution within range of 0.25 of the max jod
 # get values like crytek_sponza_max_comb_per_sequence = {'path1_seg1_1': [[60, 720], [70, 1080], [80, 1080], [80, 1080]], 'path1_seg1_2': [[90, 480], [120, 720], [120, 720], [120, 720]], 'path1_seg1_3': [[100, 480], [120, 720], [120, 720], [120, 720]], 'path1_seg2_1': [[50, 720], [40, 1080], [50, 1080], [60, 1080]], 'path1_seg2_2': [[80, 720], [90, 720], [110, 720], [110, 720]], 'path1_seg2_3': [[80, 480], [120, 720], [120, 720], [120, 720]], 'path1_seg3_1': [[50, 720], [40, 1080], [50, 1080], [50, 1080]], 'path1_seg3_2': [[80, 720], [80, 720], [110, 720], [110, 720]], 'path1_seg3_3': [[90, 720], [110, 720], [120, 720], [120, 720]], 'path2_seg1_1': [[30, 720], [40, 1080], [40, 1080], [50, 1080]], 'path2_seg1_2': [[80, 720], [80, 720], [90, 720], [90, 720]], 'path2_seg1_3': [[80, 480], [90, 720], [120, 720], [120, 720]], 'path2_seg2_1': [[30, 720], [40, 1080], [40, 1080], [40, 1080]], 'path2_seg2_2': [[60, 720], [70, 720], [80, 720], [80, 720]], 'path2_seg2_3': [[70, 720], [80, 720], [90, 720], [90, 720]], 'path2_seg3_1': [[40, 720], [50, 720], [60, 720], [50, 1080]], 'path2_seg3_2': [[80, 720], [80, 720], [90, 720], [110, 720]], 'path2_seg3_3': [[80, 480], [110, 720], [120, 720], [120, 720]], 'path3_seg1_1': [[30, 720], [50, 720], [60, 720], [60, 720]], 'path3_seg1_2': [[80, 720], [80, 720], [90, 720], [110, 720]], 'path3_seg1_3': [[80, 720], [100, 720], [110, 720], [120, 720]], 'path3_seg2_1': [[40, 720], [50, 720], [60, 720], [50, 1080]], 'path3_seg2_2': [[60, 720], [70, 720], [80, 720], [80, 720]], 'path3_seg2_3': [[80, 720], [90, 720], [90, 720], [110, 720]], 'path3_seg3_1': [[40, 720], [60, 720], [70, 720], [50, 1080]], 'path3_seg3_2': [[60, 720], [70, 720], [80, 720], [110, 720]], 'path3_seg3_3': [[70, 720], [80, 720], [90, 720], [110, 720]], 'path4_seg1_1': [[30, 720], [30, 1080], [30, 1080], [30, 1080]], 'path4_seg1_2': [[40, 720], [50, 720], [40, 1080], [50, 1080]], 'path4_seg1_3': [[50, 720], [50, 720], [60, 720], [60, 720]], 'path4_seg2_1': [[30, 720], [40, 720], [30, 1080], [30, 1080]], 'path4_seg2_2': [[30, 720], [50, 720], [50, 720], [40, 1080]], 'path4_seg2_3': [[40, 720], [50, 720], [60, 720], [70, 720]], 'path4_seg3_1': [[30, 720], [30, 1080], [30, 1080], [30, 1080]], 'path4_seg3_2': [[40, 720], [50, 720], [40, 1080], [50, 1080]], 'path4_seg3_3': [[40, 720], [60, 720], [50, 1080], [60, 1080]], 'path5_seg1_1': [[30, 720], [40, 1080], [40, 1080], [50, 1080]], 'path5_seg1_2': [[60, 720], [80, 720], [90, 720], [100, 720]], 'path5_seg1_3': [[80, 720], [90, 720], [110, 720], [110, 720]], 'path5_seg2_1': [[50, 720], [60, 720], [70, 720], [60, 1080]], 'path5_seg2_2': [[80, 480], [90, 720], [110, 720], [110, 720]], 'path5_seg2_3': [[80, 480], [90, 720], [120, 720], [120, 720]], 'path5_seg3_1': [[60, 720], [80, 720], [90, 720], [90, 720]], 'path5_seg3_2': [[110, 480], [120, 720], [120, 720], [120, 720]], 'path5_seg3_3': [[110, 480], [110, 480], [120, 720], [120, 720]]}
+# next step, process_drop_jod.py in Scatter_Plot_App
 if __name__ == "__main__":
     SAVE = True # True, False
     SHOW = False
     DEBUG = False
     WRITE_DICT = True
-    THRESHOLD = 0.4 # TODO: change threshold
+    THRESHOLD = 0.6 # TODO: change threshold
 
     VRR_PLOT_HPC = r'C:\Users\15142\Projects\VRR\Data\VRR_Plot_HPC'
     
-    # bitrates = [400, 700, 900]
-    # bitrates = [300,]
     bitrates = [500, 1000, 1500, 2000]
     # bitrates = [500,]
     
@@ -167,6 +166,6 @@ if __name__ == "__main__":
         # print(f'comb_within_range_per_sequence \n{comb_within_range_per_sequence}')
 
         if WRITE_DICT:
-            with open(f"fps_res_within_JOD_range-{time_path}.py", "a") as file:
+            with open(f"fps_res_drop_jod_THRESOLD{int(THRESHOLD*100)}-{time_path}.py", "a") as file:
                 file.write("\n") 
                 file.write(f"{scene_name}_within_JOD_range = {comb_within_range_per_sequence}")
